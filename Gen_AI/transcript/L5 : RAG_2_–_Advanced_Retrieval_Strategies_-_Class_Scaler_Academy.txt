@@ -1,0 +1,690 @@
+Hello, hello, hopefully I am audible.
+So how many of you have completed drag assignment?
+I will tell you.
+So in our next class, we will see why those errors were coming, because the lang chain
+has been outdated, but we will see in our next class, for sure, for sure.
+I already told you that lang chain is there.
+You was getting an error in JavaScript, I know why it was coming.
+So use the PNPM instead of NPM, there would be some dependency that has been changed,
+but Lang chain might not have updated that.
+So am I audible?
+Okay please don't talk.
+So how was your first-hand experience with drag?
+Last time, please don't talk.
+Would anyone like to showcase his project, his or her project, that whatever they have
+built in now.
+Have you deployed it?
+Okay, our today's class will be on system designer, we will not be writing any code.
+I am giving him the stage, he will be showcasing his project and what he has done.
+Hello, am I audible?
+This is the first page that you will see.
+So there are two things, first is the upload section, but before that what I have made
+is I have tried to make features into it.
+So the basic requirements was that a PDF or a CSV would be uploaded and questions would
+be asked in the chatbot regarding that document, that CSV or that PDF itself.
+So I tried to add a new feature into it that every user can make their own notebooks and
+each notebook will have a chat section into it.
+So first, if you just try to click on the uploads PDF CSV and if you just click on this,
+for example, it will show you, so it will first show you this error that without creating
+notebook you cannot do this.
+So I am just creating this notebook, we have this feature of renaming it, we can just rename
+it to first and now I am going to just upload the PDF into it.
+Yeah, so it's indexing right now, let's just wait it will give us the comment of indexing
+the project.
+So this was his project, by the way, it is not working, the same thing is happening for
+all of your projects also, whatever things that you have submitted, 90% of the things
+are not working when you are deployed it.
+Okay, the indexing part is only taking too long again, all these things, it's okay, we
+will see this issues in our last class that how we can optimize all these things.
+Okay please don't talk, please don't talk at the end.
+So it is giving me some answers, okay, now let me type one more question, how to do,
+I am making some typos, let us see will it be able to give me the answers or not, okay,
+it is able to, okay, how to write code in Python, let us see what response will it
+give to me.
+I could not find the information about csv data, csv or pdf whatever he has included.
+Now okay, was there any issue while submitting the assignment, was the assignment very complicated,
+it was easy, we have almost covered everything in our class, okay, so there will be a major
+project that you will be getting from Bragg only, okay, there will be a few groups, groups
+that I will create and on first June, I will assign you some groups along with the problem
+statement that you have to build on, is it clear, okay, our next classes, see this week,
+this week, next week and after that, three weeks are very important because most of the
+JNI part will be covered over there and whenever we will be discussing about memory, so that
+will be some advanced thing, again, the things are in research also, few of the startups
+are built totally based on memory only that you can see in innovation labs also, okay,
+there is one startup who is building a layer out of memory, mem0, maximum, we will see
+in our memory class what is all those things, today's class will be kind of system designer,
+okay, so whenever again, I'm telling you one thing again and again, these are the things
+that you will be building or developing as a software developer, okay, you can ask your
+seniors also after completing your DSA, after giving your system design round, what will
+be the next step that you will be doing in the company, so whenever you get selected,
+these are the tools that you will be building, is it clear, okay, so we have studied what
+is rack, so it was easy or not, was it easy or was it hard, okay, okay, how many of you
+think that the rack that we have built earlier that can go into the production, how many
+of you think that the rack that we have built till now can go into the production, then
+you can, we will see whether it will or not, okay, this class is important because the
+thing that you will be building from here on now, this all things will be required,
+okay, so in rack, what were the three steps that we were doing, what were the three steps
+that we were doing, the first step was indexing, what was another step, inside indexing only
+everything was covered, okay, that was also covered inside indexing, querying and what
+was else, retrieval, we were retrieving something from our vector database, retrieval, let me
+draw it one more time, see these were my documents, okay, these were my documents, what I was
+doing, I was creating chunk out of it, okay, there was something I gave you in our previous
+class that you have to figure out what are the chunking strategies, so how many of you
+have gone through that, yes, chunking strategies, how many, I mean how many are there, okay,
+okay, so there are three to four types of chunking strategies that we can implement
+according to our use case, is it clear, so again this questions will be asked in your
+whenever your vibas will be happening, I will be asking this question, so what are chunking
+strategies tell me, okay, if you are not able to answer it, I will give you zero, okay,
+so this was my chunking strategy that I was using, after that what I was doing, I was
+creating a vector embeddings of this, okay, every chunk was having some semantic meaning,
+I was creating a vector embedding of every chunk, then what I was doing, I was storing
+along with chunk into my vector database, this was my complete indexing step, okay,
+so this was indexing, then our next step was retrieval, so this was user query, what I
+was doing of user query, I was creating the user query into its embedding form, okay,
+then what I was doing, I was making a database call and this database was returning me to
+things chunks along with embeddings, was it clear, so this was indexing, this was retrieval
+and then there was next thing that we were doing that was generation, then based on this
+chunks, based on this chunks what I was doing, I was asking my LLM to generate something,
+was it clear, so this was the context for my LLM that my LLM has to give answer based
+on this chunks, based on this chunks what I have retrieved from my database according
+to the user query, was it clear, so this was my simple wrap, okay, now again I am asking
+this question again, so can we push this thing into production, again we are working in the
+complete, okay, you have built a rack, you have proposed a solution, so this was the
+things that we have designed and have implemented, okay, now again I want to think everything
+was working fine, we knew everything that we showcased everything but whenever this
+things was pushed into the production, this things were not working, you are getting many
+queries that this particular thing is not working, what could be the bottleneck, we
+just have to figure out what are the issues that we can face, can anyone tell me what
+are the issues that we can face, my app is working in the production, now there are some
+issues that are occurring whenever user is asking something, suppose for example I was
+giving some technical things, okay, I knew what is debugging in nodejs, so I was giving
+my technical name that give me the how to do the debugging in nodejs, okay, suppose now
+just tell me the embedding of nodejs and the embedding of node sj, okay, there will be
+drastically difference between these two embeddings now, so if user has done some typo, will my
+rag be able to give me the answer, okay, we will see what can be done, what can be the
+issue in this pipeline that we have designed as of now and what we can fix, what is there
+in our control and what is not, is it clear, okay, so this rag again, what do you think
+that a notebook LLM just this much, it would be this much simple, no, so this steps were
+clear in our previous class that we have discussed, first step was indexing, after that our next
+step was retrieval that whatever query user is giving to me, so what I am going to do,
+I am going to retrieve the documents based on that particular user query, okay, then
+my other step was generation, my LLM I am giving the context to my LLM that you just
+need to give me the answer based on this context that I am giving to you, is it clear, three
+step process, now what could be the issue, why is this failing in the production, okay,
+take your time, what could be the issue, confidence, concurrency, no, concurrency no issue for
+that, what could be the issue, my pipeline is having some issues, we are just going to
+discuss it, PDF size, infinite PDF size you can approve, now what is the issue, okay,
+have we studied GIGO, what is GIGO, what was GIGO, garbage in and garbage out, garbage
+out, okay, so according to this principle what we are saying that if you are providing
+wrong documents to me, then everything will become wrong, suppose my user has provided
+me the document, has provided me the research paper, which is having very multiple typos,
+okay, things are not mentioned in a clear way, okay, so this my doc, the first bottleneck
+could be that my user is uploading wrong document, okay, then again, then if this wrong
+document has been uploaded, then there will be indexing, I will be creating these chunks
+out of these documents, okay, there will be an indexing step, now tell me, if my user
+is giving me bad documents, will I be able to provide good indexing to it, no, whatever
+pipeline I have designed, so indexing whatever strategy I am using, so that will fail, now
+when the user comes for the retrieval, now when the user comes from the retrieval, now
+it will be asking, this question will go to my, again, the same process will happen again,
+I will be creating embeddings out of the user query and based on this user query, I will
+be making a DB call and my DB will be returning, my database will be returning me some chunks
+okay, now tell me, will, after this step, after I am getting the wrong documents, after
+my user is uploading wrong documents, the format is very wrong, okay, the indexing step,
+the indexing step will be corrupted, okay, now whatever question user is asking, my LLM
+will not be able to answer it, no, so is this a bottleneck, so if I am putting something
+which is not very good, so I will also be getting the results based on that thing only,
+this was my garbage in garbage out, is it clear, okay, okay, this is the bottleneck,
+the our first bottleneck, what could be the next bottleneck, okay, retrieval may again
+can you please, okay, so is our first bottleneck clear to you, can everyone figure out that
+what was our first bottleneck, okay, can we control it, what user is uploading, can
+we control it, okay, so this thing is not in our control, what could be our second problem,
+okay, what could be the issue in the retrieval, tell me, okay, anything else, my first bottleneck
+could be that whatever documents I am retrieving from my database, okay, after doing the indexing
+step, my database can give me all the chunks, it can give me multiple chunks and based on
+that thing the context for my LLM will become very high, okay, because of which it can hallucinate,
+what was your point of view?
+Audience-
+Okay, so my second, but that could be a bottleneck. We will see how that can be solved or not.
+Okay, my second bottleneck could be that, see, whatever we have built till now, we knew what are the technical terms. Okay. So just tell me one thing, whenever you're typing a tune on YouTube, you don't know, you don't know what is the name of the song. You're just typing some tune that you can remember is your Google or is your YouTube gives you the result that you were demanding. Okay. So my second bottleneck could be user does not know what he wants to ask.
+Okay. So the use the query that user is saying my user query could be my second bottleneck, whatever user is asking. He does not know the technical terms because of it's when the retrieval part will happen. It will not be able to get the required chunks. Is it clear? Okay. So my second, my second thing would be a second bottle and could be retrieval part in my retrieval part that whatever user is giving me.
+Suppose my user has done multiple typos. Whenever he was typing something, he has done multiple typos. Now, will I be able to hit the valid chunks inside my database? No, no. So according to see, according to as an engineer, as a developer, whatever pipeline I was designing, it was very good. I was performing the indexing step. Then after performing the indexing step, what I was doing, I was performing the retrieval step and I was getting the output that, but the bottleneck was that I knew what
+are the technical terms, but the user who will be using it might not know what are the technical terms. Again, the second thing could be, he does not. The first thing is he does not know what he wants to search. The second thing could be he has whatever things he has searching.
+He has done multiple typos. So because of those typos, I will not be able to hit my valid chunks. Is it clear? Okay. So this was my giga garbage and garbage out. I'm just explaining you what is good. According to our point of view, everything is looking good.
+But according to the user's point of view, nothing is working. My system is a failure. Okay. Now just tell me what is the uncontrollable thing over here? User user is my uncontrollable thing. Okay.
+Whatever users that I'm having.
+My user is a uncontrollable part over here. He can type anything. Okay. There could be an issue. So what can we figure out means what can we solve now? Now this is our bottleneck. We are having this bottleneck in our production. Now we will see. We will figure out that how we can optimize our rack so that my rag is not feeling. Okay. Any suggestions what we can do? So this was my pipeline. Again, I'm repeating my pipeline.
+Again, can we solve for this thing? Can we solve for the indexing thing?
+Whatever documents my user is uploading. Can we solve for that part? That is not in our hand. So what is in our hand?
+Indexing part is not in our hand. Whatever strategies that we have used. Now user is uploading wrong documents. So that is why he will get wrong output. Okay. So that that particular thing is not in our hands.
+What is in our hands? Retrieval is the pipeline of retrieval is in our hands. So we will see how we can optimize it. Okay.
+Now just a simple thing. The first thing that I'm assuming that whatever documents, whatever documents my user is putting inside my rag. All those documents are very valid.
+There are no mistakes. No, nothing. Everything. The documentation of NodeJS he has put in into my rag system. Now the issue is in our retrieval part. User does not know what he wants to search. User has done multiple typos. So these are my bottlenecks that I want to solve for. Is it clear? Is my problem statement clear? Okay. Now coming back to back to retrieval part what I was doing. This was my user query.
+After this user's query, what I was doing, I was creating embeddings out of it. I was creating embeddings out of it. After creating embeddings, what I was doing, I was searching. I was searching into my vector database.
+Can you please tell me what are the embeddings which are closer to my this embedding that I have given to you. This was the only thing that I was doing in the retrieval part.
+Now this is a very simple pipeline. Now we have to figure out that how we can optimize this thing. Okay. This was a simple thing that we have studied in our till our previous class. Now we will see how things go into the production. Again, this is this is this is the class where you will understand where the production figure happens. Is it clear? Now tell me what can we optimize?
+Okay. Okay.
+No, that is okay. That was our indexing step. So indexing step is not in our control. That thing we cannot control. What? And again, what was our next thing? A user, whatever user is uploading, we cannot control that. But what we can control, he whatever he's retrieving. Now we are assuming we are already
+mentioning that in our website that whatever documents you are providing to us, all those documents should be very clear. All those documents should be very good. Okay. Now, what was our second step? Retrieval part. Okay. Before deep diving into it and how we can optimize this thing, just tell me, suppose we all have built rack. Okay, you you're 250 students, you all have been dragged. Now, what will be the good metrics for you miss? What will be the good metrics for the rack that you have built?
+Suppose customers are using my rank and customers are using your rack. Our both rack are very completely same. So what could be the metrics that is segregating my rack from your rack? What can we provide extra to the user?
+Very simple. See, we have three things. As of now, whatever you have studied in your system design, HLD rounds or sorry, HLD, LND. So we have accuracy. Okay, then we have speed, then we have cost. So we have three things. So what is the metrics? What is a metrics for me as a user to use your rack or my rack?
+Accuracy and speed. Think, think before answer. What is the metrics? What is the most weighted metrics for me?
+Accuracy and what can be? Cost. Anything else? Accuracy. Anything else? Why not speed? Why not cost? Cost be. If I just want to pick one thing, what would be what it will be? Accuracy and why?
+Okay. So my most important metrics is accuracy that whatever user is asking, is he getting the results based on his query or not? Okay. Now, why not speed? Because suppose my rack is telling me two plus two is equals to five. I'm charging you zero dollars. Okay.
+And suppose there is one nanosecond. This is my speed and this is my cost. But will the users will be using my application? Okay. Again, the most, again, I'm very good at maths. Two plus two is equals to five. So again, the answer is not right, but at least I was fast.
+At least I was faster. Two plus two is equals to five. If my application is giving me the answers based on this thing. So the application is very fast, but it is not accurate. So most important metrics for rack, the systems like this are accuracy. Is it clear?
+Now we will see how we can increase the accuracy of our system, our pipeline that we have designed. Is it clear? Accuracy by accuracy is important. Again, if you're providing a speed and cost, that will be the cherry on the top of whatever things, whatever system that you have built. Is it clear?
+Now, again, what can we do? This is my simple pipeline that we have designed till now. Whatever query my user is asking, I'm creating embeddings for that particular query. And then I'm doing a simple vector search. What can I improve?
+User query. Okay. How can I improve my user query? Again, what was, what was my bottleneck? User does not know what he wants to answer, what he wants to ask. The second bottleneck was that user is doing multiple typos. Okay. Now what I'm going to do, this is my user query. Okay.
+Before creating embeddings for the user query, what I'm going to do, I am going to have one more step in, in between. Again, this thing is used in the production. Whenever you will be giving the interviews, I'm going to have one more step in between.
+So what I'm going to do, this is my user query. Okay. Before creating embeddings for the user query, what I'm going to do, I am going to have one more step in, in between. Again, this thing is used in the production. Whenever you will be giving the interviews, it would be better that you are suggesting this is the system design that I will propose if there is an issue, if there is a rag that we are building. Okay.
+So we are going to do something over here and then we are going to do a vector search. Okay. This thing that I'm going to discuss, this thing is named as query rewriting. So what I'm going to do over here, I'm going to put a small SLM. It could be a small SLM or very nano version of GPT models or Gemini models.
+So what this LLM will be doing, SLM will be doing, it will just be fixing the typos, fixing the typos. Okay. And we'll be providing a little bit more context to the user query. Okay. And providing context. Very simple step. What I've done before creating the embeddings, before creating the embeddings of the user query, what I'm doing, I'm just having one more step in between.
+And what this step is doing, it is just fixing all the typos that user have done. And what is the other thing that he is doing? That particular thing is doing. It is just increasing the context. Suppose my user just asked, what is debugging? Okay. Then I'm just rewriting the query based on what is debugging in Node.js and how we can set up the debugging in VS code. Is it clear? I'm just adding multiple types of debugging.
+So that's the simple context over here. Now tell me, has my whatever system that I have built till now, will the accuracy increase or not? After adding just a small step, will my accuracy increase or not? It will increase. Okay. But what is the trade off?
+My speed is the trade off and my cost is also a trade off. Okay. We are having again, whatever, again, system design is just a trade off thing that we are doing. If we are implementing something, if we are optimizing something, there will always be some trade off. Okay. Suppose if you are optimizing a solution in DSA, there will be a trade off of space complexity. Okay. You might be using some extra space to optimize the solution for provisioning. Okay.
+Is it clear? Okay. Now can you think what, what more we can improve over here? Is it clear? If again, adding a simple small step again, simple, I've just added a one query, one SLM in between before creating the embeddings. And what does this thing is doing? It is just fixing all the typos and just adding a little bit more context to my query. The user is making. Is it clear? Okay. Now what more can we improve?
+How does the SLM moves? We will see, we will see. But as of now, we are just fixing the typos still. Whatever type was my user is making. We are just fixing it. Suppose, for example, you are writing a tube.
+Okay. Suppose you are searching something and you just can remember the tune. What is the tune of the song? And according to that tune, your YouTube is able to give you the answers. Suppose my user is just writing the tune and I'm giving some context to my SLM only. This things will be dependent on your prompt that whatever prompt that you are writing. Is it clear? Okay. Now what more can I add? What more can I improve?
+Okay. This is my user query. Then what I was doing, I was doing, this step is known as query rewriting. Is it clear?
+Okay. After query rewriting, what is going to happen? Embeddings will be created. Okay. Now this embeddings will be better than my previous embedding that I was making. Is it clear? Then what I'm going to do? I'm going to do a vector set. This is my vector database. And my, this vector database, I'm going to do a vector set.
+Okay. Then my vector database is going to return me some chunks. Is it clear? So this is the simple pipeline that we have designed till now. We have optimized this part. Query rewriting part. Okay. Now what more can we improve?
+Can we get more better chunks? How can we do that? How can we get more chunks, more better chunks? The quality of the chunks has been improved. Okay. Now again, what more we can do to increase the accuracy? My question is same.
+You can query the multiple times and okay. That process we will cover in our future class. But as of now, this is a my simple system that we were having a system. Okay. We have optimized it a little bit. Now we have to optimize it more. What can I do over here to optimize it?
+Okay. Have we covered LLM as a judge? Have we covered LLM as a judge? So whatever chance again, this query, this query, the embeddings, this embeddings are not the embeddings of the user's query. Do you know this thing?
+This are the query, the query that I have rewritten. So these are the embeddings of that particular query that LLM has generated. My SLM has generated. Now what I can have, I can have one thing named as LLM as a judge. Okay. So whatever chunks I got, whatever chunks I have got till now, what I'm going to do, I'm going to check whether this particular chunks are relevant to my user query or not.
+Can I do that? What I'm going to do? See, I'm going to have one thing after this churning step, I'm going to have the whole step as a LLM as a judge. So whatever chunks I have retrieved, are these chunks based on the user query? No. What I've done, I've followed one rewritten step. After rewriting my query, I've created the vector embeddings for it. After creating the vector embeddings, I'm getting some chunks. These chunks are being retrieved from this particular query. Now what I'm going to do, I'm going to have the same chunks.
+I'm just going to cross check, I'm just going to cross check whether these chunks are relevant to my users query or not. Okay. And suppose what I found. I found that this, this was relevant to my user query. This was relevant to my user's query. This was relevant to my user's query.
+And this is not relevant to my user's query. This chunk, my last chunk that I got, that was not relevant to my user's query.
+Now, what I'm going to do, I'm going to pass this thing again, back to my, this query rewriting
+step that this particular chunk that you have given to me, the query that you have given
+to me.
+So this query is giving me this chunk and this chunk is not relevant to my user's query.
+So this will be acting as a LLMS judge.
+Okay.
+Now what, what is going to happen?
+My query rewriting step will happen one more time.
+And again, vector embeddings will be created.
+Now suppose I got more chunks.
+Suppose I got more sense.
+Suppose I got more sense.
+Okay.
+Now tell me this chance, will this chance increase the context of user query?
+Will I be, will I be able to get more better output or not?
+Okay.
+Is this clear?
+Okay.
+Let me repeat it one more time.
+What I'm doing.
+This was my user query that I'm having till now.
+Now what was having, I was doing a query rewriting step.
+Okay.
+After doing the query rewriting, what I was doing, I was creating the vector embeddings
+of it.
+And then I was making a simple search into my vector database.
+After making a simple search, what I got, the chunks that I got from my vector database.
+So few chunks are not relevant to the user's query.
+And I already have my user's query.
+So this LLM as a judge, what this is going to do.
+This is going to tell my, this, this LLM, that SLM that I was having that this chunk,
+this particular chunk is not related to my user's query.
+Is it clear?
+Okay.
+If it is not related, what I'm going to do, I'm going to rewrite my query.
+I'm going to rewrite my query again.
+This process will happen one more time and I'm going to get more chunks.
+So total, I got six chunks, sorry, eight chunks.
+And based on eight chunks, seven were very good.
+One was very bad.
+And because of that one bad chunk that I got, I performed this step one more time.
+Is it clear?
+Now tell me, has my accuracy increased?
+Will I be able to get more better results?
+Is it clear?
+This particular step that we have done, this particular step is named as query translation.
+This step that we are doing till now, this thing is named as query translation.
+Is it clear?
+Okay.
+See, there are very jargons in our AI ML part of, sorry, part of things.
+Okay.
+Now, there is one thing named as corrective write.
+Again, there is a white paper for it.
+See, this is my corrective write.
+What I'm doing, we are doing kind of corrective write thing only, that whatever query my user
+is giving, okay, and whatever chunks that I'm retrieving from those query, if few chunks
+are not related to my user query, what I'm going to do, I'm going to rewrite the query.
+I'm going to rewrite the query.
+Is this process clear?
+This is kind of corrective write that we are doing.
+Is this step clear?
+Okay.
+Now, my accuracy has increased.
+Okay.
+So what we have done till now, see, this step was having user query.
+After that, what we did, we did one step in between.
+This was query rewriting, or we can call it query translation, okay, query translation.
+After that, what I was doing, I was creating the vector embeddings for it.
+Okay.
+This is my data store, vector store.
+So inside this vector store, I was getting some chunks.
+And suppose this was my bad chunk, okay.
+Then what I was having, I was having one LLM as a judge, okay.
+So we have already covered what is, what, how we can implement LLM as a judge.
+So what my LLM as a judge, what this, this part that was key, this query, this thing
+that I got, again, I'm going to have my user query.
+This particular part is not related to my user's query.
+Now what I'm going to do, I'm going to send this thing back to my query rewriting step
+and there I'm going to tell them the context that this particular output has been generated
+and this is not relevant to my user's query.
+After that, my query translation step will happen one more time and I will be getting
+more better chunks.
+Okay.
+Is it clear?
+Is it clear till now?
+Okay.
+Query translation process has been cleared.
+This thing, this particular thing is named as corrective reg.
+Is it clear?
+Okay.
+Now what is the trade off?
+What is the trade off?
+Speed and cost.
+These are my trade-offs.
+Okay.
+We can increase the speed by adding more GPS.
+We can, we can reduce the cost by hosting the LLM or SLM onto our own hosting server.
+Is it clear?
+Okay.
+But what we have increased, what is the optimization that we have gotten now?
+Accuracy.
+So we will just be focusing on increasing the accuracy.
+Is it clear till now?
+Now tell me what more we can improve.
+We can make it.
+So how will it increase the accuracy?
+No, no, we are not focusing on speed and cost.
+See just tell me one thing.
+You build a rack system.
+You had a website which was delivering a rack system.
+Now you are just earning $10 per month.
+Okay.
+Your rack system is not much accurate.
+And there was one more competitor who has built the same rack system, but the accuracy
+is very good and he's earning $1,000 per month.
+So if I'm able to add, if I'm able to add more accuracy to my system and I'm, I'm going,
+sorry, am I, and I am able to attract more users.
+Okay.
+Then they're paying me more.
+So just by adding little bit cost, just by spending a little bit, I am able to earn more.
+So it is a good problem to have.
+This problem is a good problem to have.
+I'm attracting more users.
+Is it clear?
+So we will just be solving for the accuracy part.
+Now this is a step that we have done till now.
+Now just tell me what more we can improve.
+What more we can improve till now?
+Any issues till now?
+Okay.
+Now for the coding part, you just have to write simple, simple prompts only.
+Okay.
+Is there, is there anything very difficult?
+Can we not implement it?
+Tell me what do you have to write?
+You just have to write, fix all the typos and add some context to this particular system
+problem.
+Okay.
+Then on the system problem, what do you have to do?
+You just have to check users.
+You will be getting a user query and you will be getting the chunks.
+So you will be just doing whether this chunk is related to my user query or not.
+If it is related, then it is a good chunk.
+And if it is not related and it is a bad chunk, is it clear?
+Okay.
+So from the bad chunk, I'm going to again process the query rewriting step.
+Is it clear till now?
+Okay.
+This particular thing that we have covered till now, this thing is named as corrective
+wrap.
+Is it clear?
+Okay.
+Now what more optimizations we can do?
+Figure out, take your time.
+What more things we can add over here?
+This is, this is how generally discussions happen in the companies also.
+Whenever you are implementing a feature, there will be an open ended discussion that we are
+understanding these things.
+Yes.
+What is that?
+So what, see, we will be having this user query, this is a user query that we are having.
+So I'm just going to ask a simple question to my LLM that this chunk, I'm going to iterate
+one by one.
+I'm just going to ask a simple question to my LLM that I'm having LLM as a judge, whether
+this particular chunk is related to my user query or not.
+If it is related, then it is a good chunk.
+And if it's not related, then it is a bad chunk.
+So all the chunks need to be good.
+Otherwise, it will have to rewrite, so we can move all the chunks basically.
+Okay.
+What more we can improve?
+I'm giving you five minutes.
+Just think about it.
+This is a step that we have done till now.
+We are saying, see, we already have the user's query, original query, and we also have the
+rewritten query over here.
+So the rewritten query, what I'm going, what I'm doing over here is I'm just checking whether
+this, this thing, this chunks that I've got from my rewritten query, whether this chunks
+are related to user query or not.
+If these are related, then these chunks are good chunks.
+No, originally user query.
+It's okay.
+Again, that could be a step that we can improve.
+Okay.
+What more we can improve?
+Think about it.
+This is a open ended discussion.
+Once you can suggest something, we will see where, whether we can implement those things
+or not.
+Is this pipeline?
+Again, tell me, will this increase the accuracy of my LLM, sorry, my rack system?
+It will learn again.
+Now what more we can improve?
+You can try different models for embeddings and what more we can improve again, the thing
+improving in the pipeline.
+Any other suggestion?
+Good suggestion.
+Any other suggestion that we can do?
+Okay.
+Okay.
+This particular pipeline is clear till now.
+Just tell me what more we can improve till there is few more concept that we are going
+to study.
+But again, just think, this is my simple pipeline that we are, we are designing on the white
+board.
+Okay.
+This is what we have improved.
+Okay.
+What more things we can add into this pipeline so that we get good accuracy?
+You just have to think about pipeline.
+This is how your system design down happens.
+Just a second.
+So context is the user query which is, okay, so if it has to be designed in a better way,
+so it's not just a context.
+So basically, it's a normal, in a normal, like you're just starting, you're just starting
+a query, I think.
+Yes, yes.
+Everything is...
+Okay.
+Anyone?
+What can we improve?
+Just think about it.
+What can we improve till now?
+Okay.
+Now just tell me.
+This was my simple retrieval part, okay, that we were doing till our previous class.
+Now we have came to layer, we have optimized the retrieval part.
+Now again, there could be some more things that we can figure out what we can do.
+We are just adding some cubes over here, just adding some cubes.
+And all those cubes are having some steps that we can follow.
+Just think what more things we can do.
+We are having trade-offs also, but the accuracy is increasing drastically.
+Whatever users was typing earlier and now whatever user is getting as a result, all
+those things are having a drastic difference.
+Now what more can I improve?
+Just take your time.
+Think about it.
+I will be coming to your benches and asking what can be improved, okay.
+Okay.
+Okay.
+Okay.
+What can be improved?
+One suggestion was can we implement caching?
+Will caching do anything inside my pipeline?
+Just tell me what can we improve in the pipeline?
+So instead of using one model, what you can do?
+That you can do.
+Again, the technique is having a different model.
+What can we improve in the pipeline?
+Again, the model, okay, that part is very accurate.
+We can use different models for doing different tasks.
+But again, the accuracy, I just want to increase the accuracy based on my pipeline.
+I'm having some things in my control that is just a pipeline of a retrieval thing.
+What more can I improve over here?
+But what we did was we were limiting that we can only fetch 10 or 15 chunks at a time.
+And in our code, we have implemented earlier that if there is a user's query, I just want
+5 to 10 chunks only as a context.
+You are suggesting something?
+You are suggesting something?
+No?
+Okay, don't think about speed.
+Just think about accuracy.
+What we can improve in this pipeline to get more better accuracy?
+We can change the vector database.
+Okay, he is suggesting that we should change the vector database.
+Will it be helpful?
+We are using pine code.
+Then the retrieval party will be corrupt.
+In the vector embedding that you are doing in the indexing step,
+if I am changing that particular vector embedding style into my retrieval step,
+then it will become corrupted.
+That you can do.
+That is not the optimization.
+Any suggestions that what we can do till now?
+Response that has been generated and what the user query.
+So, LLM will not be having the context of private data.
+Then how will my LLM be able to answer it?
+Okay.
+So, just let me tell you what is suggesting that we are increasing the number of chunks
+that I am fetching from my database.
+Then what could be the bottleneck?
+If I am doing that particular thing, then again the hallucination part will happen.
+You are suggesting something?
+Yes, we can implement it.
+Hybrid search kind of thing that you are telling.
+Anyone else?
+Someone was suggesting something?
+Okay.
+What we are going to do, we are going to just see.
+So, this step is clear till now.
+Any issues till now?
+Everything is clear now.
+We are just rewriting query and based on rewriting query what I am doing,
+I am passing that to my LLM as a judge.
+Then my LLM is rewriting that particular query again.
+Is it clear?
+Okay.
+Now let us see that what we can improve.
+See, this is my user's query.
+Then what was my next step?
+My next step was query translation.
+Okay.
+After this query translation step, what I was doing?
+I was creating embeddings.
+I was creating embeddings.
+Okay.
+And what I was doing, I was making a database call to my vector database.
+And after this vector database, what I was doing?
+I was getting some chunks.
+I was getting some chunks.
+Is it clear?
+Very simple process that we are following till now.
+Now what we can do?
+There is one more optimization that we can do.
+As we want to provide more and more context so that I get more better output.
+Okay.
+What we can do?
+We can do one thing named as query sub query rewriting.
+What?
+Again, let me explain the process first.
+Then we will go into the technical names.
+What I'm going to do over here?
+See, this is a query translation step that I'm having.
+That is happening.
+So what I'm going to do, I'm going to have multiple models.
+Okay.
+Multiple SLMs, small, small SLMs.
+So this will be query rewriting part one.
+Again, my different SLM will again perform query rewriting part two.
+Again, there will be my different SLM, which will perform query rewriting part three.
+Okay.
+What this query rewriting step is doing?
+The user query, whatever user query I was having, what I'm doing, I added some context.
+I fixed in typos over here.
+Okay.
+Then what I did based on this, based on this user query, I asked the same thing to my other SLM also.
+He please fix all the typos and add more context to it.
+Suppose there was a question.
+Just a second.
+Sorry.
+Okay.
+Just tell me one thing.
+What are you doing till now?
+See, this is my vector embedding part.
+This was my graph.
+Okay.
+This was my chunk one.
+This was my chunk two.
+This was my chunk three.
+And this was my chunk four.
+So my initial bottleneck was key user is does not know that what he want to search.
+Okay.
+Then whatever things, whatever things as LLM, whatever things that I was hitting, whatever vector query that I was hitting, it was going to layer.
+Okay.
+Is it clear?
+It means again, I'm really, I'm really just give me a second.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Your attendance has been uploaded.
+If you are present inside the class okay and if you have not been marked as present just
+let me know.
+I will mark you as a president.
+Hey guys, today is the last day for C4GT.
+Please apply to it plus look at your class club.
+you. Class groups, you will find a form. If you would fill it, I'll try to provide you
+with mentorship or guidance on the C4GT. C4GT is a open source initiative by the way. Something
+in the form of C4GT. C4GT is open source initiative by the way. If you would fill it, I'll try
+to provide you with mentorship or guidance on the C4GT. C4GT is open source initiative
+by the way.
+C4GT is open source initiative by the way.
+C4GT is open source initiative by the way.
+C4GT.
+C4GT is open source initiative by the way.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C3GT.
+C3GT.
+C3GT.
+C3GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+C4GT.
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you

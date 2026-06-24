@@ -1,0 +1,1813 @@
+Just give me a minute.
+Please come first.
+Please come.
+Give me a minute.
+Is my screen visible?
+Is my screen visible?
+Please sit fast.
+It is blinking now.
+I said you can see that screen.
+Let me just touch that now we are going to have this code in this term.
+Ok.
+C. Please don't talk, speech may.
+Okay, my screen is visible now.
+Okay, let's start the class now.
+Don't talk, please.
+Please don't talk.
+I will not be repeating it again.
+I will just tell him to leave the class.
+Okay.
+No exceptions.
+So before starting this course, I just want to recommend something to you.
+We will not be adding any exceptions.
+I am not dividing the course in such a way that you are pricing a lot of courses.
+Okay.
+See, there are four or five topics which are very, means now you will go into the industry, whenever you will go into the industry.
+These are the topics that are being very frequently asked for the job interview.
+Okay.
+So there is a new field that is, you can search on LinkedIn and see ZNM group.
+You will find multiple openings for it.
+Okay.
+So in this cohort that we are studying, we are going to see what is ZNM.
+It is not an office science.
+It is a specialty topic.
+If you have to push it, the prerequisite for this cohort is that you have built something previously.
+So Minal sir has covered one second of my last time when I was talking to you, you told me that one sec has been completed.
+So this cohort is going to be, means you, whatever assignments, whatever things I'm going to give to you, whether those are projects.
+So all those things will be having, means you can pick any, any text that if you know Python, you can start from Python as well.
+But it will be depending on the team that you are building.
+Okay.
+So there are few things, the assignment, the assignment that I will be giving to you.
+It will be having some deadline.
+Okay.
+I will be giving you some assignment.
+It will be having some deadline.
+If you are not able to meet the deadline, it will be 1.5 hours.
+And assignments are having 15% village.
+Okay.
+Yes.
+No, for the assignments, I will tell you that it will be, I can give you some get up link.
+I can give you some talk.
+Okay.
+This will be very interesting.
+Do you know how to deploy?
+Do you know how to deploy?
+I mean simple, do you know how to deploy backend?
+On render or any free service?
+Do you know how to deploy a front end?
+You can do it on a virtual, if your lighting is free then you can go on a virtual.
+Okay.
+It is free.
+So what you are going to submit in the assignment is, first is your get up repo.
+Okay.
+There should not be any change in the get up repo.
+Whatever you have called it, it should stay as it is.
+If there is any change, I will mark it as zero.
+I mean if you talk about the deadline.
+Okay.
+Apart from that, your project should be in the working condition.
+If I open it and see, then I should, whatever thing I have given to you, I should be able
+to see this thing.
+Okay.
+So the assignments are cleared.
+The next thing comes is the group projects.
+So what is the group project?
+I will be giving, I will be making a team of four or five members.
+Okay.
+I will be giving you a problem statement.
+We are talking in sector.
+Those problem statements will be related to a problem statement that white operations are
+having or any such thing is going on in the innovation dimension.
+So it will be a kind of big hackathon.
+Okay.
+You will be waiting some product in a team.
+It will be a team of four members.
+It will be a team of five members.
+And based on your project, it will be evaluated.
+There will be a group by bar that is going to be there.
+Okay.
+So recommendation is whoever is the part of that problem.
+Whatever next thing you are doing, you should be in the group A.
+You should be in such a way that everyone is in the group A.
+I mean everyone is compatible with that.
+Okay.
+Whether they are right in front or left in front, everyone should be compatible.
+Okay.
+So did you understand the prerequisites?
+How this course is going to flow?
+Okay.
+There is no end-term exam.
+I am repeating it again.
+But there will be two quizzes.
+Very simple quizzes.
+You can have a 15-15 minutes quiz.
+Not more than 15 minutes.
+So in 15 minutes, the quizzes are of 7-7 days.
+It will be of 10%, 10%, 10%.
+In one class, you will have a quiz.
+And in the last class, you will have a quiz.
+Okay.
+So this code is divided into some fragments.
+Okay.
+I mean every industry is working on some part of fragments.
+Like what you can see as of now is that some part we are working on AIE.
+What is now the AIE?
+Last year, there was a boom of end-term exam.
+When we were watching YouTube videos, everyone was doing their end-term exams.
+So there was a boom in cursors.
+Okay.
+Okay.
+So we will be covering all those things.
+Again, production is very important.
+But we will be reading all those things.
+Okay.
+Is it clear?
+Do you understand?
+Our course is going to close.
+Please go.
+Okay.
+Okay.
+Before starting the course, my humble request to you is that please clear the assignments before the break time.
+Okay.
+Because if that is the case, I cannot do anything.
+Let me ask you one thing.
+What is the assignment corresponding to your course?
+Is it clear?
+Okay.
+Everything is clear?
+Okay.
+We have already requested for this course.
+You should do JavaScript.
+We will not be coding in faculty.
+We will be coding in Java.
+Okay.
+So we are studying JavaScript from 2-3 sessions or 2-3 terms.
+Why are you so late?
+There is a very simple thing.
+If I am coming early, then you come before 10 minutes after starting the class.
+That is your entry.
+Otherwise, please don't come in the class.
+Okay.
+Do you understand the code?
+How this code is going to be?
+Yes.
+What is the form of this?
+I will do that.
+Okay.
+It will be based on how much assignment the person has done.
+So they will see who is strong and who is weak.
+So who can lead the team.
+So there will be a problem statement.
+I mean again I am repeating it again.
+There will be a problem statement actually given to you.
+Okay.
+Which is a problem statement in the industry also.
+So whatever the options are, whatever we are going to cover.
+I am just showing you the gist that what we are going to cover.
+So we will be covering all these things.
+Prompt engineering is a very easy topic.
+We are going to cover it on the next class.
+Till this class, everything is fine.
+I mean you will be targeting most of the codex.
+Has anyone used bar?
+Anyone is using bar?
+The AI terminals, have anyone used AI terminals?
+So they are giving you recommendations.
+So all those things, whatever you do, it will be curser.
+Curser we are going to build in this class.
+We will build it in the third class.
+We will make it small but we will build it.
+Okay.
+After this, RAC.
+Very heavy topic.
+RAC, RAC, RAC.
+I have heard about RAC.
+There are so many things.
+But we will go more industry specific.
+What is being used in the industry.
+Okay.
+What are the tradeoffs of RAC.
+What are the things that we have to implement.
+So it is to be very obvious.
+If you have RAC.
+You are eligible to apply for any AI.
+Gen-A.
+Okay.
+Not AI.
+You are eligible.
+This is the standard of industry.
+If you know RAC properly.
+You are eligible to apply for Gen-A.
+Okay.
+I have built this project.
+And this is what I have been doing.
+We are going to cover everything.
+Still RAC is.
+Till now we are teaching this thing.
+But down the line.
+Everything is going to change.
+RAC is also very much optimized.
+There are multiple things.
+Which has come in recently.
+So again.
+We will be covering those topics.
+After that.
+The next thing is.
+Length chain and length graph.
+So have you heard about NADM.
+Yakun through NADM.
+So NADM is nothing.
+Length chain and length graph.
+And that has been outdated.
+We are still keeping this thing.
+Because some companies still use.
+Length chain and length graph.
+Okay.
+Internally.
+But this thing has been outdated.
+What is the new thing?
+Agent SDKs.
+So we are going to cover this agent SDKs.
+What are agent SDKs?
+Why are these things being used?
+So these two topics will be for agent SDKs.
+So any fundamental problem.
+Which is using Length chain and length graph.
+That can be replaced by agent SDKs.
+Okay.
+Did you understand?
+Then.
+Here.
+Most of our.
+After this thing.
+After covering this thing.
+Trust me.
+You are eligible for any role.
+Which is open.
+In the.
+Whenever you want.
+Whenever you will see the opening.
+That JNI has a role.
+So you are eligible for everything.
+Okay.
+All the incubated startups.
+Whatever startups.
+Okay.
+Let's say.
+What is it doing?
+It is a JNI startup.
+It is a JNI startup.
+It is a JNI startup.
+There is nothing extraordinary in it.
+Okay.
+There are many startups like this.
+Which are running.
+Do you know emergent?
+Emergent comes.
+So that is.
+JNI company.
+It is not an AI company.
+It is a JNI company.
+Do you understand?
+Okay.
+After that.
+We will cover these things.
+What are the memories?
+If memory is a researching field.
+So.
+A lot of research is going on in this.
+But till now.
+Whatever.
+Exists in industry.
+You will be covering more.
+After that.
+I mean.
+MCPs.
+This.
+We will build our voice.
+That is.
+We will build our voice.
+That is.
+We will build our voice.
+That is.
+We will build our voice.
+That is.
+That is.
+After that.
+We will build our voice.
+That is.
+We will be giving some commands.
+We will not be typing anything.
+We will just be putting out our mic.
+We will be just clean something.
+And it will go away.
+Okay.
+So after this thing.
+We will.
+After this thing, we will be left with these two things.
+Right Okay.
+Again.
+I am saying this.
+Then.
+Thin and thin means again.
+He.
+Till 10th.
+You will be eligible.
+To.
+Build your own.
+Startup app.
+modules.
+your own startup. If you are willing enough to invest that much amount of time. So these
+two things will be some system everything, system designs, where HLD, LLD comes, so
+all those things will be over here. Is it clear how this label is going to flow?
+Sir, so Viber will be based on a group project?
+Yes, it will be based on multiple projects. It will be based on group projects. There will be some
+sort of project set that we have made, some concept that we have done through this code.
+So this will be how all these things will be done. Is it clear?
+Should I ask someone?
+Is it visible?
+So starting this thing, just give me a minute.
+Sir, there is a scripting language in JNA and GFAC.
+Yes, it is also in Javascript.
+This is the scripting language, right?
+So starting from this class, to be very honest, this is the first class, right?
+As a JNA developer, you don't need this class.
+The first class, this is just an introduction to JNA.
+From the transformers, you will discuss what happens.
+But from the second class, whatever topics will be there, you will be needing all those topics.
+Wherever you apply, these topics are being used in the JNA.
+So this code is more industry specific.
+Whatever you are learning, that is completely implemented.
+It's not like implementation is going on through the memories and all those things.
+So this project will be very specific to some problem statement that you will be given.
+Do you understand?
+Now starting from very basics.
+What is this?
+What is Jnt?
+Should we type something?
+It is showing me something.
+Whenever I am giving some input to it, it is giving me something.
+So first, we will study what is GPT.
+What is GPT?
+Again, there are multiple things that we are going to cover.
+But there are some things that we are not going to cover.
+There are some boundaries that we have set up.
+In this code, we are only going to cover these things.
+And there will be other things.
+Whatever you are learning in advanced machine learning.
+All those things will be covered over there.
+Do you understand?
+What is GPT?
+Let's see.
+What is GPT?
+GPT, GPT, we have heard a lot of names.
+What is GPT?
+What is GPT?
+Definition is correct.
+What is its definition in full form?
+What is the full form of this?
+Generative
+Pre-trained
+Transformer
+What is this?
+Just a second.
+Is it visible?
+This is the Generative Pre-trained Transformer.
+The coding that we were taught.
+Pre-GPT.
+What was the simple coding?
+We have to design a program.
+Predictable output.
+Predictable input.
+Whatever input that we are giving.
+We know what can be the output of those things.
+But, for example.
+If I am designing a function.
+What will happen?
+If my message
+is equal to, is equal to
+he.
+I just want to
+return something.
+Okay.
+This was the conventional way of
+how we used to code.
+Is this clear?
+But, does this happen in GPT?
+Does anything like this happen?
+Is there anything which happens in GPT lighting?
+We are typing something
+and it is giving me some output.
+On what basis?
+See.
+What is the nature of GPT?
+It is generated. Not like conventional
+programming. Whatever we have thought.
+If we are giving some input.
+It is going to produce some output.
+So, that was the conventional way.
+But, GPT is a little different.
+In GPT, we give some input
+and some output.
+This is our nature.
+So, what is the nature of GPT?
+Generated.
+It is a generated nature.
+What is generated?
+It is generating something.
+But, on what basis is it generating?
+On some pre-trained data.
+Something must have given it some data.
+Brother, why are you so late?
+Hello.
+What?
+Uber?
+We are from next class.
+If you are not coming in class till 10,
+then don't come in class.
+Okay?
+Did you understand this?
+What is the meaning of generative?
+What is the meaning of pre-trained?
+Magical we are going to see.
+See,
+this class
+which I am teaching you,
+I have also read something.
+I have been working in this field for 2-3 years now.
+So, I know that
+there is some information that I know.
+And on the basis of that information
+I am able to read or something.
+I am not memorizing all these things.
+It is on the book.
+I am generating some outputs.
+I am generating some words on the book.
+On what basis I am generating from my pre-trained data?
+What is my pre-trained data?
+It is
+the time
+what I have spent in the industry.
+That is my pre-trained data.
+If I am generating pre-trained data,
+it will be the same thing.
+Did you understand?
+So, GPT is just a simple thing
+that if we are giving some input,
+it is generating some output
+on the basis of some pre-trained data.
+Did you understand this?
+So, what is GPT?
+It is just OpenAI's chat GPT.
+Gemini is also a GPT.
+Gemini is also a GPT.
+The cloud that you use
+that is also a GPT.
+So, the naming convention
+of OpenAI is quite good
+that they are what we are going to do
+whenever they launch it.
+So, they just launch chat with GPT.
+So, naming, industry, marketing
+everything is there.
+Now, coming
+to this transformer thing.
+So, this is some magical stuff
+by which we are able
+to see something magical is happening.
+Something is being generated.
+Now, the thing is what is
+this transformer?
+Again, as a developer,
+you need not to know how
+transformer works internally.
+Completely, that comes into the domain
+of machine learning engineers.
+Those who are machine learning data
+scientists, who are the scientists
+who has implemented all the chat GPT
+models.
+So, they are required to know
+what are the internals of transformer
+and all those things.
+If you will be applying for the roles of AI implementation
+so, this will be required.
+Again, but this
+domain is
+I will specify one for you.
+This part is for the machine learning engineers.
+So, whatever stats you are studying
+whatever stats you are studying
+so, all those things will be transferred
+here in PI engineering.
+You will be building models
+you will be doing some research works.
+But as a developer, do I need to do that research?
+No.
+We do not need to know how
+transformers work internally.
+We just need to know how to use it.
+So, all the developers
+whatever developers we are having
+their work is only here.
+Whatever transformer we have
+using it, what I
+can I solve some real world problems
+that is the work of our data
+isn't it?
+So, what we will be covering? We will be covering
+how can we solve
+real world problems.
+Okay?
+Making LLMs
+you will be learning in AI
+development, whatever you are studying.
+There will be an AI track
+and there will be a software engineering track.
+So, this specific topic comes under the
+software engineering track. Is it clear?
+Okay. Any doubt?
+Do you understand what GPT is?
+Generative Pre-Train Transformer
+all these things.
+Yes,
+we can simply transform.
+So, what the transformer will be doing
+we are giving some input.
+We are going through that.
+We have given some input.
+Okay. This is our
+transformer.
+And it produces some output.
+Okay?
+What is a transformer?
+Which is transforming something.
+Who has made the transformer?
+Who built the transformer?
+So, there is one very interesting
+research paper
+which has made companies like chatGPT
+open or AI. Which is this?
+Attention is all you need.
+So, there is a research paper, a white paper
+which was launched by Google.
+That was launched by Google.
+What is the use of this?
+Here, you can see
+if I am typing something in English
+it is being transformed into English.
+So, this whole transformation
+was done using language agnostic.
+We are giving some input.
+This transformer
+is producing some output.
+Based on language engineering.
+So, all these things were made by Google.
+There is one feature of Google
+which is translation.
+To transform
+whatever topic is made
+it was based on that.
+So, you are reading this
+and this is our transformer.
+So, let me show you. This is a dog.
+This is a white paper.
+Attention is all you need.
+If you have this research paper
+which has been implemented by open AI
+that is why you are able to do it.
+Again, I can be using open AI
+you can use any other.
+It could be a dog
+it could be a dog.
+I do not believe in dogs.
+You can use any other.
+But you can use Gemini.
+You can use any other.
+I will be using open AI.
+So, this was our transformer.
+This is our transformer.
+The main agenda of this transformer
+was just Google translation.
+But are we studying that?
+No. We are studying AI transformer.
+So, what happens in AI transformer?
+We are providing some input.
+Then it goes into some transformer
+Ok?
+And it is giving me some output.
+Is it clear?
+This is what is happening?
+Ok.
+So, whenever I was typing something
+it was giving me some output.
+While typing, it was generating something.
+So, the work of transformer
+whatever we were using in Google translation
+it was just whatever input we had
+it was just whatever input we had
+it was just whatever input we had
+it was just whatever input we had
+whatever input we are giving, it is just going to translate into some other language. But
+the work of AI transformer is very simple. The meaning of this transformer is just to
+predict next word. Suppose this is my transformer. So I have given one as an input. So what will
+be the next output? 1, 2, 3. What will be the next output? 1, 2, 3. So the complete flow,
+the complete agenda of this AI transformer is just to predict next word. Now we are saying
+words. Next letter can be anything. So let's go a little technical. What is this thing?
+What is this thing? Okay. So the input that we are giving. Okay. So does anyone have a
+doubt that it will predict the word or the letter? It will be predicting tokens. Now
+what are tokens? What are tokens? Anyone? Anyone else? How any language works or any
+language works? So the input that we are giving. Now computers don't understand hello, how.
+They are not able to understand this whatever meaning that we are giving. Hello, how are
+you? English they are not able to understand. What they are able to understand? It will
+be something binary. There will be some meaning of that particular word. So that meaning is
+known as semantic meaning. So we say tokens. So what is going to happen? Whatever input
+that we are giving. For example, whenever we are typing A in computer, then it has some
+binary representation. Okay. So A minus small is A capital. Its S capital value is 97. So
+97 gives us 97 finally. My computer is able to understand that this particular letter,
+this particular character is A. Is it clear? So first of all, what is going to happen?
+The input that we are going to give to the any MLM. So we call this input token. What
+we call it? Input token. So it is being converted into something. Now what is something? I mean
+whatever word we are giving, it is being converted into token. So on what basis does the token
+convert? On the basis of dictionary. Whatever is dictionary or whatever vocabulary that
+we have ingested that this MLM is only going to produce any token based on this dictionary.
+Just say we took A's S capital value. It is 97. Okay. We took B's S capital value. It
+is 98. It is like this. And how much is Z's S capital value? 122. Okay. So what is going
+to happen if I am going to send A to my transformer? And it is going to give me the prediction
+of B. So what is happening internally? What will happen to A? First of all, it will be
+converted into its S capital value. So what we call this S capital value for now? We are
+just assuming this is my token. So what is the token of this 97? Okay. Then after 97,
+it is going into my transformer. And this my transformer is predicting that something
+is going to happen. There is something which comes up and A and it is B. So what is the
+S capital value of B? 98. Okay. So this part, this part is known as encoding. Okay. Now
+97, it will be giving me that guarantee 97, 98. So how does encoding happen? It happens
+based on some cryptography algorithm. We need not to study, we need not to go over there.
+But there are some cryptography algorithms based on the dictionary that we have set up
+for that algorithm. So encoding happens through that. Okay. Now if I have encoded something,
+then I will have to decode it. So here decoding happens. And after this decoding, I am able
+to get my value as B. So this is the work. This is the complete work of a transformer
+just to predict a next one. But why these companies are winning? This LLM companies
+are winning. Any reason for it? Again, I am going to see. See, I just typed hello. So
+what is happening? You are able to see this thing. So how is this happening? This thing
+is happening. That went into the transformer. It produced, what was my first output? H.
+Again the cycle will repeat. Again the cycle will repeat. What I will be sending H, E,
+L, L, O, hello, input, whatever input I gave, it was returning me some character named as
+Again, it will be token based, but still I am just segregating this by character by character.
+So again, this particular thing will go into my transformer. And what was the next thing
+it was predicting? I. This is the work. Just predicting next character, next word. Now
+we are going into tokens. Next token. For now, our token is I. Again, H, E, L, L, O and
+this was what I gave to my transformer. After that, what was the prediction? Again H came.
+So this cycle is happening. Again, I am giving some input. Again, my transformer is producing
+some output. And through the transformer, I am also getting some output. So this cycle
+is repeating, repeating, repeating. And till when it repeats? It will repeat till some
+character, like suppose it will repeat till the end of string. So it will be repeating
+till the end of string. So after that, it will stop. After that, it will not be produced.
+So is it clear how this transformer is working? But this predicting the next thing is very
+computational. That is why it is a computational problem. You just saw that the cost of GPU
+is 5. The cost of GPU is 5. Why those 5? Because this process, doing this process, again
+in doing this very rapidly, it is very computational heavy. Only GPUs can do it. Is it clear?
+I think we will come to that. Again, I will explain your problem. So let's see once
+how, this is called tokenization. Do you understand tokenization? Whatever we studied till now,
+there are a lot of tokenization steps. So whatever input we are giving, there is a library
+which I will show you. I have, this is tick tokenizer, you can see, it is a virtual app,
+someone has made it. So if I am writing something over here, hello, how are you? So you can
+see these tokens are being generated. Again, computer will not be understanding this thing.
+My transformer will not be understanding this thing. Again, probability statistics, we are
+not going over there. I am not interested in that. So the user is having a token, that
+can be a character, that can be anything. But it is based on the dictionary. What is in
+the dictionary? Whatever we have in the state, it is R for it. It cannot be an input. The
+fixed value of a small character is 97. Similarly, whatever input that we are giving over here,
+it is having some semantic meaning. So this you can see, hello is a token, how is a token,
+R is a token, U is a token. So it can be independent of the LLM that we are using. So the same
+thing, it is giving me some output. So all these tokens you have to understand. So tokenization
+is based on the library that we are using. Now suppose I go into some open source model.
+Okay. Hello, are you fine? So it could be the tokenization can happen. Again, space is
+also a token. So this is a tokenization step. Whatever input I am giving, it is being converted
+into a token based on the dictionary that the LLM is doing. Is it clear? Tokenization
+is a tokenization step. Is it clear? Now what we are covering, again, this class, whatever
+input we are giving, first that input is being converted into tokens. Then those tokens are
+processed into transformer. The work of transformer is just to predict next token. A token can
+be anything, a character, it could be a character, it could be a word based on the LLM that we
+are using. Is it clear? Now let's code this. Can we code it? So there is a library, tick
+tokenizer. Okay. So this is a library that we will be using. So again, you will find
+it very easily in Python. Again, the language is not agnostic. You can use any language.
+Okay. So we will be coding more in JavaScript. Okay. So that the whole group is covered that
+this is what we are coding. Again, you said that everything is available in Python, but
+we can code in JavaScript. The JavaScript community is very good. Okay. So take a look at this
+thing. Let's code that whatever things are happening, it will not feel magical. Whatever
+things we are doing, it will not feel magical. So you know Node.js. So this thing comes to
+you, how to set up a Node.js project. You have learned this thing. So I am just setting
+up Node.js project. So setup is done. What I will be doing over here is that I just type
+a module here because I don't want to use the required syntax. Okay. So I am just installing
+this package. This is just a simple code that I have to write. Whatever input I will be
+giving. See, what I am just going to do, I am just going to call this function. So what
+I did was I just ran this command. Is it clear? So tokenization steps, whatever things we
+are writing as a screen, first those things are being converted into tokens that can be
+understood by any LLV, whatever you are using. Now we have understood the tokenization steps,
+so we can also do de-tokenize. Okay. So how will we do de-tokenize? We will come into
+it. Just give me a minute. This is the thing that we used. Okay. So I just called de-tokenizer
+and I am just passing this thing. If I have to build my own LLV, there will be a function
+that I am writing. It will just be accepting an input, converting into a token. And what
+my LLM will do, what my transformer will do, it will be just predicting what will be the
+next token of this input. This thing will be happening in a cycle until it gets an end
+of token. So this is the work of LLM. Again, you really want to go into very details how
+this transformer is working as a developer. As an AI researcher, yes. You will have to
+go into a lot of research. You will see that AI researchers are very good in maths. They
+are very intelligent people. Like the person who has built MongoDB. So he is a very researcher
+kind of thing. Can we build our own MongoDB? We can build it. If you want to, you can.
+But we know how to use MongoDB very efficiently. So our work is to whatever things are already
+existing. We are going to use all those things very efficiently. Is it clear?
+So we have understood the tokenization step. We have tokenized it. After that, we can go
+back to the research paper. So input is converted into tokenization. After that, input embedding
+is happening. What are input embeddings? Just going through small things. Anyone can explain
+what input embeddings are. These tokens are converted into vectors. Just give me an answer.
+If I am taking the name of Mellonichi, then what is the name of Modiji? I don't know.
+Whenever I am taking Modiji, then what is the name of Mellonichi? This is the feeling.
+It is interesting that if I am taking the name of someone, like I am talking about RC, then
+what is the name of Virat Kohli? If I am talking about CS, then what is the name of MSI? So
+this is the feeling. If I am taking the name of something, then it gets clicked. So I am
+just representing it into a 2D thing. It is a 3D thing. There are multidimensional things.
+But for now, I am just representing so that you can understand. See, this is my 2D kind
+of vectors. Let's see what happens. So the first thing that I did was that Modiji. So
+I just wrote Modiji. So whose name did you remember? Did you remember Mellonichi's name?
+Okay. Now, which country is Modiji the Prime Minister of? India? And which country is Mellonichi
+the Prime Minister of? Italy? Is it Italy or is there something wrong? So if I can predict
+that Modiji is the Prime Minister of India. And there is one thing that if I have to predict
+Mellonichi's name, then the direction in which I am going in, again this is a 3D vector. I
+am representing this into a 2D vector. Again, I will show you how these things have been
+visualized, how these things have been implemented. That after India, we are remembering the name
+of Italy. Is it clear? Suppose I am taking the name of CSK. So there is some thought process,
+I mean, it clicks in my mind that he will be talking about MSD. If I am talking about
+Virat, sorry, if I am talking about Virat, there will be some point of contact in my
+brain, how my brain is wired, that he is talking about RCP. Is it clear? So what is this thing?
+This thing. Now, whatever tokens we have produced, it will be having some meaning. That meaning
+is what we call input MDA. So represent that thing. Whatever things that I have implemented
+as of now, we have done encoding. Encoding that something or the other, I mean, if LLMI
+transform is predicting something, so it will be predicting on some basis. And that basis,
+that particular thing is known as input embedding. Do you understand? Okay. I will show you a graph
+of input embeddings. Look, these are embeddings. Is it visible? So this is a project of tensor
+flow that is showing you that these are dimensions. And these are some kind of semantic meaning
+like, do you see this? Okay. If I click this, suppose there is something, this end clicking.
+So from this particular character, there are so many things, those things can be related.
+Is it clear? So this is what we call input embedding. Do you understand? Have you seen
+what input embeddings are? Okay. I will search it once. What else? So are you able to read
+it? Learned it. This numerical vector is very critical. Have you seen the screen? Is it
+visible? Okay. So whatever things as of now we have said it, our first step is the input
+that we are getting, it is being converted into tokens. Okay. Now tokens, there was some
+numerical value. Okay. So this numerical value, I have no benefit from that. My transformer
+cannot predict anything from those numerical values. So there should be some relation in
+those numerical values. And that relation is no, I mean, what is the thing that is giving
+some relation? It is input embeddings. So these things will be converted into vectors.
+So suppose that the input embedding of Modiji is 1011 and the input embedding of Milonji
+is 1012. Okay. Again, it is very LLM specific that how they are representing those things
+into that particular vector. Okay. So this thing came and if I am predicting the country,
+so let's suppose India's country is 1011 and Italy was having 1012. Is it clear? So this
+can be mapped like this. Is it clear? So we have to understand the work from input embeddings.
+What is the work from input embeddings? Okay. Now will our work be done from input embeddings?
+No. So a lot of internals come in the transformer, but still we have to see what kind of things
+they are doing. After that, the next thing that comes after input embedding, we put it
+into vectors based on the things that we were using. After that, what is positional encoding?
+What is positional encoding? So you must have studied NLP. Do you know what it is?
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+vector emitting
+see
+creating a vector emitting
+it depends on model to model
+it is very simple code
+we get our vector emitting
+after that
+again it is having some cementing meaning
+so it is positional encoding
+I made it in 2D
+but what you can see over here is
+it is not 2D, it is 3D
+these things are
+3D
+if I am clicking on something
+if I am clicking on this value
+suppose I am clicking on this value
+so all the cementing meanings
+of this thing
+all the vectors which are related
+to this particular thing
+which you can see
+related to the same thing
+this is what happens in transformers
+is it clear?
+let's understand how transformers work
+let's code this thing
+so what you have to do is
+first of all
+you have to make a key
+you can use any LLM
+I am using OpenAI
+so by copying this key
+what you have to do is
+you just have to go over here
+here you have to
+name the key
+what will be the key name?
+OpenAI
+API
+key
+now I am just removing the screen sharing
+so that you don't copy the key
+otherwise you will get tokens
+there is one more thing
+please use your key very efficiently
+because every key is having some cost
+whatever keys you put in it
+it will have some cost
+so maybe you have to pay
+$16
+maybe you have to pay $5
+$5 is the minimum for using OpenAI
+you can use Gemini also
+Gemini is free
+but you have to create a Google console account
+just give me a second
+I am just copy pasting that thing
+screen sharing is on
+screen sharing
+so what you have to do is
+for creating that embedding thing
+what you have to do is
+you have to install this package
+just install this package
+it is off
+you just have to
+install that package
+one more thing that you have to install is
+.env
+.env
+so I am just commenting all this code
+for now
+import
+.env
+so what it will be doing
+it will just be
+whatever my environment variables are
+it will just load
+.env
+so you must have used this a lot
+so what I am going to do is
+I am going to copy this
+importing embedding
+this is my complete code for it
+ok
+openai worked
+you made it a client
+after that what I am doing
+I am just writing this code
+I am just writing which particular
+embedding model I am going to use
+I am using currently
+again we will see
+it will have as many dimensions
+as you might be
+hearing this thing
+this model is trained on this much parameters
+this model is being trained on this much parameters
+actually those are dimensions
+how many dimensions it is trained on
+because of which
+it is able to
+give me very specific output
+again
+there is one more thing
+you need not to use any LLM
+we are using Gemini
+if you are free
+you are free to use any open source LLM
+set up Ola
+you must have read
+how we are training LLM
+you must have read this
+what did you read in machine learning
+do you know how to set up
+do you know how to set up
+do you know how to set up
+if you are not willing to pay
+if you are not willing to pay
+you can just host that particular LLM
+which is open sourced
+on your particular machine
+so what I did was
+I just
+used this model
+we will see
+we will see what will happen
+we will see what will happen
+so
+so you can see
+this input embedding
+this thing is showing me where
+this particular thing is
+which will be its tokens
+where those tokens will be based on my graph
+so how many
+dimensions are there
+I will show you how many dimensions are there
+so it is having
+this much dimensions
+1,536
+dimensions are there
+again the bigger you use
+the more dimensions
+you will increase
+we use large instead of small
+so
+so
+so
+once I will show you
+how many dimensions are there
+so
+so
+so
+the small version was having
+half of its dimensions
+so the more
+the dimensions will increase
+the less accuracy you will get
+you will understand GPT
+how much did you understand
+now coming back to
+what is input embedding
+after that
+from next class
+we are going to code
+whatever engineering will be
+that will be from next class
+in this class
+to brush up
+if you have studied ML
+it is all good
+but if you are not interested in studying ML
+that is also okay
+that is completely okay
+you have to do inferencing
+we are studying what it is
+so that is completely okay
+industry has the same demand
+again building LLM will cost you
+a lot
+you will have to prepare the data set
+after that you will have to train LLM
+whatever you are using
+we understood this much
+is it clear till now
+is it clear till now
+that
+what is input embedding
+after that
+it was multi-editing
+and after that
+output was being produced
+is my screen visible
+so now
+the transformer that we were studying
+it was having something like that
+this is one phase
+and after that this is another phase
+okay
+so after this something was happening
+now see
+whenever you are using any LLM
+there are two phases
+if you are building LLM also
+there are always two phases
+the first phase is known as training phase
+so in training phase
+the input that I gave
+before that
+it will be converted into tokens
+so first I will write here
+the input that I am giving
+it will be converted into tokens
+tokens
+based on any cryptographical algorithm
+whatever dictionary is present for LLM
+those tokens
+will be converted into input embeddings
+okay
+input embeddings
+what will I get? I will get vectors
+where it can be represented
+after getting my input embeddings
+I will have to see some other meaning
+what happens after that? positional encoding
+what happens after positional encoding?
+what is happening after this?
+first
+self-head attention
+after that
+multi-head attention
+because of which I can specify
+its semantic meaning
+so getting cleared
+here, here
+vectors can be placed here
+after that
+detokenize
+output predict
+prediction
+prediction
+after predicting something
+what is going to happen?
+it is going to detokenize
+and after detokenizing
+I get my output
+so this is the whole lifecycle
+this is how my transformer is working
+so what happened
+the training phase
+the training phase what I was having
+so what was happening over there was
+it produced some output
+okay
+again coming back to this question
+it is producing some output
+so what we are going to do
+we are going to calculate
+the loss
+so this was the output
+that I predicted
+so it was
+if I am giving A as an input
+I was predicting B as output
+so the main agenda of
+transformers is just to predict
+next token
+so I was intending
+that this should predict what should be my next token
+it should be B
+but it was predicting something else
+so what we are going to do
+we are going to calculate loss
+after calculating loss we will see
+that this was my
+this was my output
+and this was my input
+so based on that thing
+I will again
+ingest this
+that you predicted wrong output
+it will be predicting something
+so by doing this it gets trained
+my LLM trains like this
+it is very very very
+costly
+you have to use a lot of GPUs
+okay
+you have to clarify
+the data set
+I think my model
+is working really well
+that model is able to
+adjust the expectations
+after training
+comes my inferencing phase
+so what is going to
+happen actually
+this is my
+transformer architecture
+I am giving some input
+it is
+producing some output
+so train was happening
+whatever output it was producing
+I was calculating that particular cost
+and again I was ingesting that into
+that particular transformer
+until unless it is giving me the output that was required
+is it clear
+by doing loss
+I will get that output
+it is giving me my predicted output
+so my LLM is made
+my LLM is made
+after that I will
+anyone can use this LLM
+so how will they use it
+they will be using using inferencing
+so just like I was typing
+hello how are you over here
+where is it
+so what is happening over here is
+it is typing
+these things are happening
+transformers already trained
+that whatever input
+comes
+what input I will be giving it will just be
+writing starting of
+string over here
+after that my transformer will predict
+all the outputs that it can predict
+after that what will happen here
+my end of string will come
+again input that I am giving
+so input starting of the string will
+go to the transformer
+it will be predicting some output
+and after output there will be end of string
+after that it will start
+it will stop predicting
+now did you use
+Google Gemini
+Google Gemini
+again what is the use of transformer
+again whatever the cost is
+whatever the need is
+the work of transformer is just to predict
+what is the next port
+so what is the cost of transformer
+just to predict next port
+now we have to predict that token
+we have to predict cycles
+it is happening because of some GPU
+that it is utilizing is it clear
+have you used one thing
+Google AI studios
+have you used it
+ok ok
+ok
+you are able to
+say this thing temperature
+what is temperature
+the transformer
+the transformer when he said it
+it was predicting some output
+that output
+that output can be anything
+is it clear
+so what can be anything
+it is just a problem
+so what temperature does
+if I am setting it
+as a high
+if I am setting the temperature as high
+it means whatever the probability
+will be less
+again it will be predicting
+that output
+if I am just
+reducing this temperature
+so what is going to happen
+only the sentences which are having very high probability
+of that particular input
+only that will be produced as output
+have you understood
+have you understood GPD
+have you understood GPD
+next class
+next class
+after that
+you will start
+have you understood
+have you understood
+what is the magical
+what is the magical
+I mean
+very, very
+I have to respect to all those people
+who are doing research
+they are implementing all those things
+so if I show you
+a formula
+we haven't discussed anything in mathematical
+so I am just typing
+do they give formulas
+I mean
+formulas like
+so
+ultimately
+the transformer is a mathematical
+representation of the things
+we have
+so we are just predicting
+that this thing can be
+next probability of this particular
+transformer
+is it clear
+now will you be needing
+transformer
+again I am telling this again
+as a developer
+it is completely
+I mean
+if you are in the industry
+so the first thing
+is that there are signals
+in the industry
+most of the cases
+they are trying to operate a learning channel
+why
+because you have to do mathematics
+and in that case
+you have to do something
+something can happen
+but most of the major people don't know
+so
+can you do their job
+can you take their job
+you people
+there is some
+there are two things
+one is
+a lot of Claude
+engineering specific
+Claude is very
+master in predicting
+AI outputs
+coding outputs
+whatever training they have
+so his
+focus is
+I just want to do everything
+in coding
+Gemini
+Gemini
+I have
+Google ecosystem
+there I am able to do
+material things
+Google has
+data set
+so whatever Google
+works in that
+after that comes
+OpenAI
+OpenAI will start
+in Star B.C.
+Google is
+it was all that
+translation
+OpenAI implemented
+for everything
+whatever you use in OpenAI
+it is implemented for all the things
+that's why I am using OpenAI
+you can use any element
+from next
+class onwards I will start giving you assignments
+I am repeating this thing again
+in assignments
+there is very simple thing
+you can use any text
+there is no restriction
+if you don't know Python
+or you are more familiar with Python
+you can use Python
+if you are more familiar with JavaScript
+you can use JavaScript
+but if you can use Java
+unless I click
+then you are not linked
+I am repeating again
+your data break
+again I am using
+your data break
+your live link should be there
+and those things
+those outputs
+if you want to produce
+then you can use that
+it will depend on how much you get
+you need to use your assignment
+I am repeating
+again
+I don't want you to do
+I am not
+very
+everything is
+implementation
+whatever things you are
+learning you are going to implement
+is it clear
+please say something
+did you understand
+any problem
+it doesn't look magical
+transform is magical
+except that there is nothing magical
+what?
+no there is no open ISO
+Gemini is not free
+Gemini is free
+Gemini is your server
+and it has disk
+free is not free
+300 credit is free
+In group projects, whatever you do, you have to get 5-6 people in a group and then submit it. Is it clear?
+Classy class same. Do you understand GPT?
+Attendance same.
+Do you understand curriculum? How this class is going to flow?
+One second.
+Your section B.M.?
+Yes, tell me.
+One second.
+Is this the same section? Group B.
+I am telling you roll numbers. You guys do present and absent.
+You were not in the class.
+Where?
+Are you standing?
+What is positional encoding?
+You were not in the class.
+Tell me, where is the class?
+What is positional encoding?
+One second.
+You were not in the class.
+Where are you?
+Outside?
+Can you lock this one second?
+It is not locked.
+1067?
+I am telling you the numbers. You tell me present and absent.
+1067?
+1052?
+101?
+1053?
+1054?
+1055?
+Sorry, 244?
+397?
+174?
+Who is 174?
+287?
+17?
+017?
+056?
+Which one?
+Screen share?
+1017?
+056?
+058?
+178?
+176?
+177?
+180?
+190?
+Who is 190?
+168?
+160?
+159?
+176?
+060?
+059?
+275?
+183?
+596?
+118?
+089?
+011?
+409?
+357?
+020?
+189?
+345?
+181?
+106?
+344?
+012?
+353?
+107?
+557?
+109?
+196?
+1063?
+424?
+292?
+305?
+283?
+Who is 283?
+198?
+111?
+043?
+134?
+112?
+200?
+276?
+067?
+477?
+202?
+203?
+294?
+205?
+206?
+205?
+206?
+616?
+070?
+025?
+407?
+404?
+209?
+209?
+071?
+365?
+330?
+365?
+211?
+117?
+212?
+046?
+072?
+214?
+119?
+Who is 119?
+119?
+026?
+120?
+2 people are saying present?
+Who is here?
+120?
+343?
+120?
+343?
+216?
+324?
+217?
+218?
+122?
+464?
+398?
+390?
+323?
+028?
+124?
+108?
+125?
+Who is 125?
+126?
+128?
+129?
+130?
+278?
+319?
+222?
+622?
+280?
+289?
+349?
+223?
+225?
+075?
+076?
+281?
+207?
+297?
+227?
+448?
+504?
+293?
+504?
+293?
+299?
+230?
+231?
+232?
+232?
+632?
+232?
+400?
+234?
+296?
+332?
+080?
+358?
+235?
+133?
+081?
+082?
+135?
+083?
+136?
+048?
+084?
+138?
+656?
+085?
+284?
+138?
+657?
+168?
+168?
+169?
+169?
+169?
+169?
+657?
+139?
+086?
+140?
+087?
+389?
+307?
+394?
+239?
+088?
+482?
+428?
+240?
+143?
+144?
+146?
+331?
+245?
+311?
+236?
+286?
+078?
+147?
+148?
+149?
+248?
+091?
+049?
+250?
+092?
+151?
+251?
+322?
+422?
+253?
+316?
+154?
+035?
+256?
+295?
+295?
+155?
+156?
+037?
+096?
+262?
+228?
+1039?
+303?
+265?
+313?
+040?
+097?
+098?
+347?
+363?
+173?
+415?
+015?
+099?
+327?
+268?
+016?
+326?
+009?
+012?
+028?
+0273?
+0162?
+0162?
+0338?
+0164?
+0291?
+0411?
+015?
+165?
+405?
+What is your name?
+My name is Akash.
+My role number is 181.
+10181.
+There is an anchor in it.
+Report it.
+This one?
+Yes, there is an anchor in it.
+My name is Akash.
+What is yours?
+190.
+190?
+190?
+There is an anchor in it.
+This is the student report.
+Wow.
+There is an attendance photo.
+Isn't it your leg?
+When?
+I learned it in a book session.
+And Jais took two lectures.
+Let's meet now.
+After this.
+One second.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.

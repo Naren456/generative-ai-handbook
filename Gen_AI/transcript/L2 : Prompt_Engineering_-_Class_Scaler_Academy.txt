@@ -1,0 +1,1346 @@
+Your section is Bina.
+Today's class will be the foundation of all the classes that we will be having in the future.
+If today's class is clear, your 30% problem is solved.
+From this class onwards, you will start getting assignments.
+So there will be some deadline for that particular assignment.
+If you are not able to submit till that deadline, you will be rewarded as zero.
+So generally we will be having the deadline of one day only.
+I will be sharing what will be the assignment at the end of class.
+Is it clear?
+Just my screen is visible.
+Please don't talk.
+In our previous class, what we discussed again, we discussed that we are having one LLM.
+This is my LLM and whatever input I am giving, whatever input I am giving to this LLM,
+what it does is it just predicts what will be my next token.
+This is the only thing that we have discussed up till now.
+The main work of this LLM is just to predict what will be my next token.
+Again, we will never be going back into that particular thing.
+From here onwards, we will start focusing on the developer point of view,
+how we have to code and how we have to manage all the things.
+You will not be requiring any internal information on how these things are working.
+So was this clear?
+We also went through what are input embeddings, positional encoding and all those things were clear.
+We will not be using it, but all those things happen behind the scenes.
+Is it clear?
+Now I am providing some input.
+It is generating some output.
+Now there is one concept, very famous concept in computer science named as GIGO.
+Can anyone tell me what is GIGO?
+What does that mean?
+If my input is wrong, my output will be wrong.
+So if I have written a program, suppose I have written a Java program,
+through some algorithm and I am providing the wrong input to this program,
+what it will be giving? It will be giving me back some bad or wrong output.
+This is only GIGO.
+The similar thing is with LLMs also.
+This is my LLM.
+If I am providing wrong input to my LLM,
+suppose I provided something A, B, C, D and X, Y, Z kind of thing.
+So it will be giving me back the wrong output.
+The similar thing is with LLM also.
+On what things my output is dependent?
+What what?
+Retained data, contextual problem. Anyone else?
+See, in our LLMs, we are following the principle of GIGO.
+If we are providing wrong input tokens, we will be getting back the wrong output tokens.
+So in order to get right in output tokens, what we have to do?
+We have to provide good input tokens.
+Only then we will be getting good output results.
+Now I just want to ask on what basis this LLM is producing the output?
+We have discussed it.
+It is generating the output based on pre-training data.
+Pre-training data.
+Now just tell me one thing.
+Do I know how GPD train?
+Do I know how GPD train?
+Do I know how Gemini is train?
+I don't know how Gemini is train.
+Okay. Do OpenAI know how GPD train?
+OpenAI knows how GPD train.
+Do Google know how Gemini is train?
+Google also knows how Gemini is train.
+So there will be something that GPT in documentation or GPT or Gemini that if you are providing
+the input in some certain format then my models, my GPT models will be generating good outputs.
+Is it clear? Suppose we are building our own LLM, we have built scalar LLM. Scalar LLM.
+And what I told was that if anyone who is using this LLM, what you need to do is you
+need to give me the input token having the prefix as SST. When you are inputting something,
+when you are giving any input to my LLM and it will be generating good output on the basis
+of the input that I am giving. I had just told everyone that whenever you are giving
+any input, just start your string with SST. Only then my LLM will be able to give good
+outputs. Similar things are present with GPT and Gemini also. Means this thing, this thing
+is named as prompt. Whatever this LLM, this LLM, whatever I am providing as a prefix,
+this thing is named as prompt. Okay. Let us see how this thing works. Okay. I showed you
+platform.openeyeye.com. There is one chat feature over here. Hopefully this is visible.
+So I am just doing some chat. I am removing all this thing. Is it visible now? It is visible.
+Hey, how are you? Okay. I provided some input to my, this LLM, the model that I am using.
+So it is generating some output based on the thing that we have discussed. Now let me just
+change my model. I am changing my model to 4.1. 4.1 mini. Okay. Now I am asking this,
+can you write a code of adding two numbers in JavaScript? So what it is doing? It is
+generating something. It is giving me the output, how to write the code in JavaScript
+for adding two numbers. Okay. So you can see that we are having a free flowing conversation.
+I am having a free flowing conversation with my, this LLM, what I am using. What I am using?
+GPT 4.1 mini. Okay. GPT 4.1 mini has been trained on the internet data. So it is able
+to generate all this output. Now, can you see one thing over here? Whatever things I
+am using as an input, what this is doing? This is sending me that how this much tokens
+I have sent as an input and this much tokens the GPT has trained. Okay. GPT has been generated.
+So based on this tokens only, I will be charged. Is it clear? Okay. Now there is one thing.
+This is my LLM. Just a second. This is my LLM. And what I did was I wrote a message.
+Hello, how are you? So this is a string message that I am writing. Okay. There will be some
+way to ingest this message into my LLM. It will not be that I am directly putting this
+to my LLM and it is giving me the output. There will be some format now. That format
+can be a JSON format. Okay. That can be a, you have studied HTML, so we are having H1
+tag. So there could be a tag format also. Okay. So this particular format, this thing
+is named as prompt style. So in our today's class, we will be covering what are the types
+of prompt style. What is the industry standard that has been used across the globe? Okay.
+What you have to write, what you have not to write, all these things will be covered
+over here. So the first prompting style that is open on the internet, that is named as
+Alpaca prompting style. Okay. So how we write, how we ingest the input in this format is
+instructions. So I'm just writing it like this. I have instructions. Okay. Then I have
+some input. Then I just leave it like this and it generates me response. Is it clear?
+Okay. We will not be using it. It is using open sourced LLMs that are available on the
+online. You can just see, you can just go through that. So whatever prompting style
+they're using. So this will be the style of prompt that, which model is open sourced?
+Do you know? Any Lama is open sourced? Gamma is open sourced. So in those type of models,
+if you are hosting that on your machine, so you will be using this prompting style. Okay.
+We will not be using this. The second type of prompting style is instruction format.
+So what happens in this? This is very easy. This is used by, this is used by Meta. Okay.
+That Lama is trained by Meta. Okay. So what we do is we write instruction. It is similar
+to HTML tags only. And here we write our message that we have to provide to my LLM and we just
+close this instruction. This is an instruction format prompting style. Okay. Again, we will
+not be using it. It is not an industry standards. It is used in Meta. Whenever you will be working
+in Meta, Facebook, you will be, if you are working as an AI engineer, you will most probably
+using this prompting style. The third thing is F line T5. In this prompting style, there
+is question and here we write input, then answer and it generate the answer from here.
+This is being used in Google. Okay. Again, you, we will not be using this thing because
+this is not an industry standard. Google internally uses it. Is it clear? Okay. Now we are covering
+being used in the industry. So that is named as chat ML format. Okay. So this was introduced.
+You need not to write anything. Okay. Everything will be provided to you. You need not to code.
+Just understand everything. The assignment will be given to you. Implement all the things
+that I'm covering in the class into that particular assignment. That, that's all. And you will
+again, please don't exceed your deadline. Otherwise you will be awarded as zero. Okay.
+Chat ML was introduced by open AI. Open AI. So currently in our LM market, open AI is
+a bull. Open AI is a bull of all the AI companies. So whatever format that they are using, this
+all things will be, will be becoming as an industry standard. So how we write code in
+this open ML format is key. We provide message area. We provide message area. Okay. And in
+this message area, we have one object and in this object, we have two things, two key
+value. The first one is named as role. Okay. This role can be anything means not anything.
+There are some certain things only either. I will be prompting either. I will be questioning
+LLM. So the first role is user. Okay. Another role is system. We will be looking into it.
+Just give me, we will be writing all this code again. Just look, just for a gist point
+of view, we will be having assistant and we will be having developer. There are multiple
+but this will be all that we will be using in today's class and tomorrow's class and
+the next class that we will be having. Okay. Then there is a content that we will be passing.
+This could be a string. This will be having a string format. So this is my industry standard
+that we will be using throughout all the application that we will be designing over here. Okay.
+So what it does is key, it sends the request to my open AI server and open AI also sends
+me back the response in the same format. It will be having message and inside the message
+I will be having role. So if open AI is sending me some message, so it will be assistant message.
+Is it clear? Okay. Just give me a second. So whatever messages I'm receiving here, you
+can see who has responded in assistant. Okay. Let us just code it up, how we can implement
+that thing, this thing in our code. So your section is B. Yes. We will look into it. Just
+give me a moment. Hopefully my screen is visible. So what it does is it sends a message to my
+screen. So what I have to do is I have to just set up a Node.js system. See, you know
+now how to set up a Node.js application. So I'm just changing this thing to module. Okay.
+So there is only two things that I will be requiring. I will be requiring the package
+of open AI and dot ENV. I will be loading some environment variables. So I'm just installing
+instead of, you can use anything. There is no restriction by the class. No more familiar
+and dot ENV. So what I need to do is key for chatting this thing. I need to create an open
+API key. So how to create an API key? Just go over here. Again, you can use any LLM.
+There is no restriction, but I should get the output that I am demanding. That will
+be all the crust of application that you will be building in assignments. So I'm just creating
+one. Please do not copy paste this. It will be removed after the class. Do not execute
+my credits. So what do you want us open AI API key. This is visible. It's okay. Please
+don't use it. So what I will be doing, I will be importing dot ENV slash config. It will
+be loading all my environment variables. You need not to code it. Please don't code it.
+Just see what is happening. Okay. And I will be importing open AI class. So can you, can
+anyone tell me how do I know this is a class? I'm importing an open AI class. So how do
+I know this is a class? Okay. Open AI documentation.
+First letter is capital. Okay. Yes. It is a standard industry standards. Because I will
+be creating a client is equals to new open AI. Okay. So whatever things I will be writing,
+I will be writing this inside this function and I will just be calling this function.
+So how to write this thing is, is equals to, it will be an API call to my open AI server.
+So client dot chat dot completion. Again, you can go through the documentations. So
+again, what I will do, I will, what I will, first I will select which model I'm using.
+See what you can do for this documentation purpose, open AI, open ML docs. See you can
+go through this documentation that how to write all this code. See we are, this is,
+this is a different thing. We will not be using this format. We are using open AI format.
+Sorry, open ML format. So what you need to do is you just need to write this client dot
+chat dot completion and here model you have to select. I'm using GPT 4.1 mini. Okay. And
+what was the next thing? Message. Okay. First I will be having a message area and it will
+be having my object and what will be present in my, this, this object, my role, role, role
+will be user and my content. So suppose he, how are you? Now I told you, we will see this
+thing. This, this thing that I'm using, this open ML format is a industry standard. So
+what happens is suppose I have built an application using open AI. Now Google has launched its
+new model. So will I be changing my complete code? No. Let us see how to write this open
+ML format. It is very, can you see this code? Is there anything very difficult over it?
+Nothing is there. So Google also told that you need not to change anything. Just make
+the API request to my server. So let us just see. Google, sorry, Gemini open AI compatible.
+Again, sorry, if you are writing, if you are writing code in Gemini using Gemini, you can
+use this thing. The same thing I'm importing open AI. I am creating a client. Then I'm
+making an API request over here. What you need to do is you need, you just need to change
+the base URL where this request will be diverted. Okay. This is a kind of like an adapter.
+Sorry. No, we are using open ML format. So this thing, this is, this is not every, every
+anyone. This format that we are using, this is applicable on all the elements. This is
+what happened. See, if I will do anthropic open ML format, so sorry, anthropic open AI
+compatibility. See, if you are using a cloud for this, whatever things that we will be
+writing. So what you can do is we are having the same thing over here also. We are just
+downloading an open API package and what we are doing, we are just making our request
+to this particular thing. So what happened? This circus was started by deep sea. So deep
+sea, deep sea, open AI compatible API. See, this is how we write code in deep sea. We
+are again using this industry standard open ML format. So, but if you will go to key,
+if you will just see key, uh, Gemini JS SDK. So if you are using just Gemini, so it will
+be written like this. You have to install this thing. Just give me a second. You have
+to install this package and you have to install it. You have to install it. You have to install
+this thing. So it will be written like this. You have to install this thing. Just give
+me a second. You have to install this package and you have to write this code in this format.
+We are having model and content. So this is, this is not an open AI format. This is not
+an open ML format that we are using. This is a Gemini format. So again, we will not
+be using this thing. If you want to code any application using Gemini, you can use this
+thing. But if you want that thing should be multimodular means any model can come and
+perform some tasks. So we will be seeing how it can be done. Is it, is it clear? Yes. Yes.
+Open AI created this open AI package and everyone adapted it. Everyone created their own SDK
+based on this thing. So that is why this become industry. Okay. Now let us just chat it up.
+Yeah. Previous in our last two years, last four years, five years, open AI is dominating
+the industry. Okay. There are multiple users in OPA. There are billions of users in open
+AI. So what other other Gemini models or any other models, they don't, they does not have
+that particular kind of user base in the ML industry. So what they're doing, whatever
+opening is doing, they're communicating that thing. So this was done by deep sea. So they,
+they, all the companies are having their own SDKs, but deep sea never had its own SDK.
+So what it did was it just copied. Okay. You are not going to send the request to open
+AI server. You send the request to me because of that only there was a case which open AI
+get on deep sea, but then Google also launched it. Then entropic also launched it. So that
+case was closed. That is why this is an industry. Is it clear?
+Okay.
+By default today, this request is going to open a server.
+So how can you remove the base? You are in this.
+I'm not able to get your question.
+Okay. Now just tell me there are, there is multiple linear industry, which has been
+made through that. Now, will they be changing that package for these things? This adaptability
+issue? It is good. It is good. If anyone is able to chat using open ML format that it
+is good. Open AI will not remove it. Don't worry.
+Yes.
+Okay.
+See, coming back to this thing.
+See, I have not designed it anything. This is an industry standard, how these things
+are working. So if you are using this package, open AI,
+this is sending the request to my backend server of open AI.
+Okay.
+So internally it will be having some base URL. We write REST APIs and there is some
+certain format that we follow.
+It will not redirect. See, by default, please don't talk.
+So by default, my API was slash open AI.
+Okay. So what I'm doing, I'm changing the default condition to Gemini API. That was
+what I was doing. I was building an adapter on top of it.
+Is it clear?
+Okay. Now let us just check it out that what is going to happen. I'm just writing this
+thing.
+Yes.
+How much? Sorry.
+So you can see this into on this dashboard.
+Whenever you will be purchasing something, you will be having this dashboard.
+Whenever I'm going at my this home page, you can see this must credit side.
+So it will be showing all the things. All the analytics will be shown.
+Yes.
+This is, this is just for this open AI platform. If I will be using entropic, entropic will
+be having its own SDK, its own because request is going on their server on that request only
+they are evaluating that how much tokens you have used. So that dashboard will be available
+on entropic also.
+Open is opening. I will be charging for the opening thing that you're using. Is it clear?
+Okay.
+Console.log.
+Response. Okay. It is showing me some issue.
+Sorry.
+Yes.
+See, what is happening? I think it can crash also. No issues.
+But it is not crashing. See, you can see it is responding me something. Okay. Let us see.
+See, it is responding me something. I have just printed this response that I'm getting.
+So what I want to go, what I want to see is I just want to see what my assistant has
+replied. So this is my object that my LLM will be written. It will be having IDs object
+and all those stuffs. So I want to see the message. So where I will be going response.choice.
+So previously, back in the days, it was responding me with multiple responses. So that is why
+I'm just using choices of this is an array. It was responding me multiple messages. You
+will see it in the future dot message.
+See, I'm getting this thing. I'm getting that whatever request I'm making to an open AI
+server, it is responding me something and it is having two things, roles and content.
+Don't see this thing. These are if you are making, you're making a request that is not
+accessible with open AI. You're telling open AI send me the link how to make atomic bomb.
+So this flag will become true. Currently it is not. Okay. So what I want is I just want
+to see the content.
+See, you can see whatever request I'm making to my open AI server. So similarly,
+this thing we were doing in our dashboard, our sandbox environment.
+The same thing is happening over here. Simple API request, nothing magical. Okay.
+Now there is one thing he this request, this opening request that I'm making. This is stateless.
+What is the meaning of stateless?
+What is the meaning of stateless?
+Okay. Anyone else?
+It is not having the history of whatever I'm sending. See for just giving you an example.
+My name is search.
+Okay. I send a request. It responded me something. Hello.
+How can I assist you today?
+So can you see the message? Can you see this message? I don't have the access of your personal information.
+This is the meaning of status that whenever, whenever I'm sending any API request,
+my open AI does not know that what was my previous request. It is a stateless thing. Okay.
+You might have studied what a stateful architecture and what is stateless architecture. The similar thing is happening over here also.
+So for maintaining context, what I have to tell is he
+whatever messages that I'm sending, whatever response
+that you're getting, if you want to ask anything else, roll
+assistant, send back me
+all the responses that I send you. Open AI is telling me that send back me all the responses that
+I have sent you in my API request. So what it sent me?
+Now if I will ask
+what is my name?
+So it will be
+I'm providing all the context of the history of all the chat that I have done with open AI.
+So now it will be able to remember my name. Is it clear? Is it clear?
+Whatever request I will be making to open AI thing. Yes.
+This
+which is not shit.
+No, it does not remember it.
+That is why whatever it does, we are making it. All those requests are stateless.
+No, that is also stateless
+that you are using. So whenever you are chatting with chat GPT, so what is happening? This
+example that I showed you, where is that chat?
+Just a second.
+Just a second.
+So
+so what will be
+happening? Whenever I'm chatting, whenever you will be using chat GPT, this all things
+all things that you are sending to chat GPT and whatever response it is giving me back.
+So what is happening? A window will be created. We will look into it and that will create an issue
+for further classes. This complete message is
+sent back to my LLM. Only then it is able to remember my
+context.
+So good question. So what is saying that if I am sending this thing
+and getting back my response, I'm again sending something, I'm again getting back my response and
+again I will be sending that thing and all those things will be appended into
+my message history. So if I'm making the request again, so my cost will
+increase. I was charged based on my input tokens and output tokens that were being generated.
+Question is valid.
+I can use it only in summary.
+Question is valid.
+Question is valid.
+Question is valid.
+Question is valid.
+Okay, we will not be doing anything of this. So what is selling key? We are compressing whatever chat
+we need not to gather. Again, we will be charged on that thing, but let me show you one thing.
+Open AI
+pricing. See, whatever history that we are sending, whatever
+things that we are sending to my LLM, whatever he has generated me back, back into
+the message array. So those things are named as cached tokens. So we are
+having three types of tokens. We are having input tokens on which I will be charged.
+We are having output tokens that whatever output my LLM will be generating, it will be
+charging me on that basis, but we are having cash tokens. So whatever response that I'm sending back
+that was accumulated, that was aggregated for whatever response my LLM was
+sending me back. So that will be aggregated and send it back. So this tokens are treated as
+cash tokens. So it will be charged minimalist. See, you can see you are only charged 0.25 for it.
+Is it clear? You will be charged, but it will be very less, almost negligible.
+Sorry.
+This thing,
+this all thing will be cached tokens. Only the last
+thing, only the last thing will be treated as an input token.
+You can do it. That is what we have to do. We can do it completely.
+The thing is,
+when we will come into rag pipelines,
+then we will see what has been used.
+There is a concept of memory which comes into play.
+So we will see what is it.
+Why are we?
+Yes. Yes.
+I told you that this
+whatever chat I am sending to my LLM, all these things are stateless. If I'm making an API request,
+my LLM does not know what was the context. To maintain that context,
+what I have to do is that whatever response my LLM is sending me back,
+I have to append that thing into my message and send it back to it again.
+And if I'm asking another question, say for example, you do chat GPT.
+If you're writing something in the starting and if you're asking that same thing after some time, it is able to remember it.
+So what is happening? It is missing for not very long history, for very short history.
+So how? Again, it will also be making, please don't talk.
+It will again be making a request to my OpenAI server. My OpenAI server does not know what is the context.
+It is a stateless thing. So to maintain that context, I have to send
+the complete history of whatever things I have chatted. Okay, that is why I have to do it.
+Yes.
+Sorry, how will I?
+Just please don't talk.
+Whatever you chat,
+whatever you chat in chat GPT, you're sending some message.
+My chat GPT is responding to something. So what will be happening whenever you are sending
+next, sorry, next chat message. So this will also go with as a
+cash token to my OpenAI server. Again, it will be responding to something back. Again, if you are
+sending any other text message again, so this complete history will go to my OpenAI server because of this
+complete history only because of cash tokens only my OpenAI server is able to remember
+the context that we were talking about. Is it clear?
+The
+message
+that chat GPT responded
+was an assessment message.
+It is not
+it is not
+this thing. This thing is in our hand. We have to manipulate it. So as a developer,
+we will only be working on this thing. Okay. Is this thing clear?
+This thing is clear.
+In every
+It can be anything.
+It can be anything. We will be looking into it.
+Okay. So is it clear? Okay.
+Now coming back to this thing. See, this screen is visible.
+See, I was having a free flowing conversation over here. See, can you write me a poem
+on dog?
+So I'm having a free flowing conversation. My 4.1 is trained on the internet. So it will be
+writing the poem. Okay. So now we are moving to this.
+This is a generic chat GPT is a generic agent, generic chat GPT.
+What I want to do is I do not want that it should reply me everything. I just want that there should be some
+specificity that if I'm asking this questions only, only then my LLM should reply.
+Okay. How do that? We have something named as system prompt over here. We will look into it.
+Now I'm writing something into my system prompt.
+You are an AI assistant who is expert
+in JavaScript.
+You only knows JavaScript
+as the programming language
+and you will only answer
+me to the questions
+related to JavaScript.
+If user
+ask me anything,
+anything else, you will not respond
+to it. Okay. So there is some customization
+that I've done. Okay. I'm writing this chat again.
+He can you write a poem in Java
+on dog.
+See my now I'm saying I can only do something some specific
+task only. So now what I'm doing, I'm doing customization. I do not want that this
+whatever chatting thing that I'm doing, it should be generated. My LLM should not respond to every message.
+I just want that it should respond. It should be responding me to some some
+specific context only. Now can you
+tell me how to print
+in JavaScript
+.
+So it is telling me that if you want to
+print something, you have to write this as console.org. Is this clear? So this thing, this thing
+now I'm adding some more thing. Do you know about scalar?
+About SST
+.
+So 4.1 was trained earlier. So it might be having, it might not be having
+the context, but it is not responding me some anything.
+Is it clear? Is it clear till now? Now what I'm doing, I'm providing some context.
+You are an AI assistant
+for scalar,
+which is an attack.
+The goal of scalar is
+is to provide
+industry standard
+standard
+.
+Now if I will be asking this
+question again,
+about scalar. So it is telling me something.
+Again, it is giving me some gibberish output. So now coming back to
+this thing, this thing is named as system prompt. Whatever things that I'm writing over here, this thing is
+named as system prompt.
+Now there is one thing, the way of writing. So before going into it,
+so just tell me, we have studied this one concept GIGO. We have studied this concept.
+Now the system prompt, will my system prompt
+be useful in this GIGO principle?
+It will be. So my chat will be dependent on whatever context I'm giving. So my
+context will be provided by my system prompt. My system prompt will be working as a
+project manager for that LLM that you only have to give the
+reply to this particular chat. Is it clear?
+We have discussed
+how to do the pass conversion thing. That is a context thing
+that we were providing using cash tokens. Now other thing that we are
+discussing is system prompt. So system prompt is very very important whenever you are making some
+kind of applications using open here.
+No.
+So that
+thing is stateless. We will have to provide that
+message area back to LLM. Only then it will be able to remember the context.
+We will see it.
+.
+.
+.
+.
+Yes. We will look into it. Just give me a minute.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Now can I ask him
+.
+.
+.
+.
+So I am just improving this prompt.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+So is this thing clear?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.

@@ -1,0 +1,124 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{enumitem}
+
+% Setup page geometry
+\geometry{
+    a4paper,
+    left=25mm,
+    right=25mm,
+    top=25mm,
+    bottom=25mm
+}
+
+% Setup colors
+\definecolor{primary}{RGB}{41, 128, 185}
+\definecolor{secondary}{RGB}{142, 68, 173}
+
+% Header and Footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textcolor{primary}{\textbf{GenAI Handbook: Study Material}}}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Title formats
+\titleformat{\section}
+  {\normalfont\Large\bfseries\color{primary}}{\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries\color{secondary}}{\thesubsection}{1em}{}
+
+\title{\Huge \textbf{Generative AI Study Material} \\ \vspace{0.5cm} \Large MCQs, Interview Questions, and Viva Prep}
+\author{Synthesized from Scaler Academy}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\newpage
+
+\section{Part 1: Multiple Choice Questions (MCQs)}
+
+\begin{enumerate}
+    \item \textbf{What is the primary function of the Transformer architecture in an LLM?} \\
+    A) Image classification \\
+    B) Predicting the next token \\
+    C) Connecting to relational databases \\
+    D) Routing network traffic \\
+    \textit{Answer: B}
+
+    \item \textbf{Why are Vector Databases used in RAG systems instead of traditional relational databases?} \\
+    A) They support SQL queries natively. \\
+    B) They are optimized for retrieving semantically similar high-dimensional embeddings. \\
+    C) They run directly inside the LLM context window. \\
+    D) They do not require chunking. \\
+    \textit{Answer: B}
+
+    \item \textbf{What is the core difference between a Vector DB and a Graph DB in the context of RAG?} \\
+    A) Vector DBs store relationships; Graph DBs store embeddings. \\
+    B) Vector DBs store unstructured semantic embeddings; Graph DBs excel at mapping explicit entity relationships. \\
+    C) Graph DBs are much faster for cosine similarity searches. \\
+    D) There is no difference; they are interchangeable. \\
+    \textit{Answer: B}
+
+    \item \textbf{When deploying a high-traffic GenAI application, how should third-party LLM rate limits be handled?} \\
+    A) By increasing the RAM on the backend server. \\
+    B) By running the LLM locally. \\
+    C) By using a message queue (like AWS SQS) to throttle outbound requests. \\
+    D) By using a Blue-Green deployment strategy. \\
+    \textit{Answer: C}
+
+    \item \textbf{What is the "Manager Pattern" in Agent orchestration?} \\
+    A) The user manually approves every tool call. \\
+    B) A central agent evaluates the prompt and routes it to specialized sub-agents. \\
+    C) An orchestrator that restarts the server if the memory overflows. \\
+    D) An obsolete LangChain pattern replaced by vector indexing. \\
+    \textit{Answer: B}
+\end{enumerate}
+
+\section{Part 2: Viva \& Theory Questions}
+
+\subsection{Foundations \& Prompt Engineering}
+\textbf{Q: Explain why LLMs are considered "stateless."} \\
+\textit{Answer:} LLMs do not retain memory of previous interactions. In an API call, you must send the entire conversation history (context) along with the new prompt so the LLM has all the required information to generate the next token accurately.
+
+\textbf{Q: What is Chain of Thought (CoT) prompting?} \\
+\textit{Answer:} CoT prompting encourages the model to break down a complex problem into intermediate steps before outputting the final answer. This reduces hallucinations and improves logical accuracy.
+
+\subsection{Advanced RAG}
+\textbf{Q: Describe the workflow of Corrective RAG (CRAG) / Query Rewriting.} \\
+\textit{Answer:} Raw user queries are often ambiguous (e.g., using pronouns like "it" or "they"). In query rewriting, we pass the raw query to a smaller, faster model (SLM) to rephrase it into a standalone, explicit search query before embedding it and querying the vector database.
+
+\textbf{Q: Why is chunking important before storing data in a Vector DB?} \\
+\textit{Answer:} LLMs have a strict context window limit. If we embed an entire book as a single vector, retrieving it would exceed the context window. Chunking breaks documents into smaller, overlapping pieces, allowing us to retrieve only the most relevant paragraphs.
+
+\subsection{Agents \& Orchestration}
+\textbf{Q: Why are modern Agent SDKs migrating towards a while-loop architecture with Max-Turn limits?} \\
+\textit{Answer:} Agents autonomously decide to call tools based on user prompts. A while-loop allows the agent to continuously call tools, evaluate the result, and call more tools if needed. Max-turn limits are crucial to prevent the agent from entering an infinite loop, which would cause massive API token billing spikes.
+
+\textbf{Q: Differentiate between Short-Term Memory (Redis) and Long-Term Memory (Vector/Graph DBs) in AI Agents.} \\
+\textit{Answer:} Short-Term Memory handles the immediate, transient session context (like conversation history) and expires when the session ends. Long-Term Memory extracts factual or episodic information from conversations and stores it persistently in a Vector or Graph database so the agent can recall it in future sessions months later.
+
+\section{Part 3: Production System Design \& Interviews}
+
+\textbf{Q: You are building a WebRTC Voice Agent. Why is it a security vulnerability to embed the OpenAI API key in the frontend code, and how do you solve it?} \\
+\textit{Answer:} Embedding keys in the frontend exposes them to the client, leading to potential theft and abuse. The solution is the \textbf{Remote Proxy Pattern using Ephemeral Tokens}. The frontend requests a temporary, scope-limited token from the secure backend. The backend negotiates this token with the AI provider, and the frontend uses this ephemeral token to establish a direct, secure WebRTC connection.
+
+\textbf{Q: How does the Model Context Protocol (MCP) address tool compatibility across different LLMs?} \\
+\textit{Answer:} Prior to MCP, every AI framework had a proprietary way of defining tools. MCP provides an open, standardized protocol (JSON schema) for tools. If a tool is written following the MCP standard, any compatible LLM (OpenAI, Claude, Gemini) can discover and execute it without custom integration logic.
+
+\textbf{Q: Explain the difference between Blue-Green Deployments and Rolling Updates.} \\
+\textit{Answer:} In a \textbf{Blue-Green Deployment}, you spin up an entirely new environment (Green) alongside the existing one (Blue). Traffic is switched instantly to Green; if successful, Blue is terminated. In \textbf{Rolling Updates}, new instances progressively replace older instances one by one behind a load balancer, ensuring zero downtime but meaning users might momentarily hit different versions of the application.
+
+\end{document}

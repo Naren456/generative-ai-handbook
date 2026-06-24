@@ -1,0 +1,629 @@
+Hopefully my screen is visible to all, okay, please don't talk, let's start the class.
+Okay, you have practiced everything that what things were taught in previous class, what
+are prompting styles, so there were a few great submissions and few were very bad submissions
+by the way, I extended your deadline for one day because few of the students were not informed,
+so let me just show you just the people who have done really a great job, how their projects
+are looking, so can you see this, can you see this, this project, okay, who has made
+this project, Ujwal, is Ujwal here, I don't know his name, okay, this was a mince, when
+I went through the gitter, so he has written very good prompts, how Siddharth sir behaves,
+all he have taken all the context of WhatsApp history and multiple more things, so let us
+just ask few questions and you tell me whether this is a, is this the right tone or not,
+how Siddharth sir answers, tell me any question, any question, explain consistent, let us see,
+see he has implemented multiple things, see first this chatting thing what I was able
+to see that multiple of you have not implemented this chatting thing properly, means you can
+see this answers are coming in the stream, so there is one package that you can install
+that you can use, so this is looking good, you can review it, so generally Siddharth
+sir speaks like this only, no he doesn't speak like this, so this project is bad, okay, okay,
+there was one more project, so from whatever things you will be studying from now, you
+will be adding all these things into your previous projects, whatever you will be reading,
+so your gitter becomes very good, okay, you are able to showcase multiple generic projects,
+so this was one of the good project that I can see, so I am asking same question over
+here also, the UI is looking pretty good, okay, so can you explain me, I will have to
+check in the Google sheet, this thing was missing, see this thinking step was missing
+from multiple of whenever I was seeing the projects, okay, so there was evaluation based
+on how you are implementing all the things that you know in one stack, so there were
+few couple of you have deployed the project on render, so it is taking too much time,
+my agent is crashing multiple times, so it would be great that if you can deploy that
+thing on version, it will be live rapidly, okay, is it clear, okay, so whatever submissions
+you will do, be clear that everything is working fine, because what I could have seen in your
+submissions was there were multiple times I was needing the access of Hercel also, so
+there also my agent was crashing and it was not able to evaluate, so it has directly marked
+as zero, the evaluation was marked as zero, okay, because agent was not able to open the
+application, he was not able to do anything, so because of which the numbers has been marked
+as zero, but still I will be reviewing them manually and I will see whether all those
+things are evaluatable or not, okay, then hopefully my screen is visible, my screen
+is visible on your laptops also, just give me a second, let me just open my iPad, okay,
+okay, my iPad is not working, it's okay, okay, okay, okay, okay, okay, okay, okay, okay,
+okay, hopefully this thing is visible, okay, so whatever we have studied till now we are
+just going to implement all those things and today's class is very, very important, because
+whatever money making things are happening outside the world, so all these things will
+be covered over here only, whatever we will be learning, you will be making most out of
+money whatever is happening in the AI system from here, so do you know perplexity, okay,
+now you can see what was the revenue of perplexity, okay, open AI is in loss, Gemini is in loss,
+Claude is somewhat is able to cover its loss, but all these LLM companies are currently
+in loss, but perplexity is profitable, okay, we will see why it is profitable, there are
+multiple reasons for it, so whatever things we will be learning today, whatever things
+we will be learning today, this will help you out in multiple things, means you can
+directly after this class just implement all those things that I am teaching and send your
+resume to someone that I have implemented this thing, this is the, it is not profitable,
+but the loss is very less, okay, because of funding rounds, okay, is it clear, so you
+might have heard a buzzword AI agents, AI agent workflow, all those things we will be
+covering throughout the sessions, okay, so till now just tell me one thing, this was
+my LLM, this was my LLM, okay, what I was doing, I was giving some input, okay, and
+it was generating me some output, this was happening till now and on what basis was it
+generating output, there were two things, the first thing was pre-drain data, pre-drain
+and the other thing was the context that we were providing by system prompt, context by
+system prompt, so currently we are using text to text models, we are using text to text
+models for whatever things we are doing, okay, now just tell me one, just tell me the answer
+of one question, if I will ask my LLM that what is the weather of Bengaluru, will he
+be able to answer me, what is the current weather of Bengaluru, it depends on the harness
+layer, anyone else, external help it can do, yes you are saying something, if it has access
+to internet, okay, anyone else, if I am asking one question to my LLM that can you please
+tell me the weather of this particular city, will my LLM be able to answer that thing to
+me or not, just a simple thing, again back to basics, on what basis my LLM was generating
+the output, based on pre-drain data and system prompt that I am providing, so it will not
+be able to answer me, what will be the current weather of Bengaluru or any city, if I will
+ask the LLM can you tell me what is the current use which is happening in India, it will not
+be able to give me the answer of that thing also, so my LLM cannot tell me whatever things
+are happening live, my LLM does not have the access of internet, my LLM cannot tell me
+what are the real time context, whatever things I will be asking for the real time context,
+my LLM will not be able to answer me, even if it is answering me, there can be two possibilities,
+the first possibility is that it is not answering me anything because it does not have the access
+of internet, it does not have the real time context of anything, the second thing can
+be if my LLM is answering me something, if my LLM is answering me something that data
+will be outdated, that data will be outdated, whatever output my LLM will be giving, it
+will be based on the training data when it was trained, is it clear, now just tell me
+one simple thing, going back to some traditional systems, we have two things, suppose I am
+building an e-commerce website, so I have built a microservice of authentication, I
+have built a service of payments, I have built a service of orders and generally there
+is a mash between this microservices that this my service is talking to this service,
+this service is talking to this service, generally there is a mash, now my LLM has a context
+of everything, but if I will ask my LLM to place an order on behalf of me, will it be
+able to place an order, will my LLM will be able to perform any action, my LLM will not
+be able to perform any action, it will tell me how I can place order, suppose I want to
+spin up a EC2 instance on my AWS, so will my LLM will be able to do it, no, so my LLM
+cannot perform any action, my LLM has the lot of data, it has the information of all
+the data on which it has been trained, but it does not have any context anything how
+to perform in any action, is it clear, so now think it as like your body only, so suppose
+you are having hands, from which you can play cricket or something, you can perform any
+task, you can click on any button, you have your legs, you can run from your legs, but
+if you are not having your brain, then the body is of no use, I have built these systems,
+this system, this is my traditional system that I have built, so again these things are
+of no use if someone is not calling them, so treat them as like your hands and legs,
+my LLM is like my brain, my LLM can think, can this thing, can this rest API, can this
+micro service thing, they cannot think, they can just interact, whenever I am hitting them,
+they can just interact, but they cannot perform, they can perform actions, but they cannot
+think what is needed to be done, what is not needed to be done, but my LLM can think,
+my LLM is generating something, so my LLM can think, so treat LLM as your brain, your
+LLM is a brain, my LLM can think, it can perform, it cannot perform any task, but somehow, somehow
+I am able to give the context that these are your hands, these are your hands, okay, from
+which you can place the order, these are your hands from which you can do some payments,
+then this system that I am having, this complete system, if I will ask this system can you
+place the order on behalf of me, will it be able to do it, it will be enough, this thing
+is only known as agentic AI, so this thing, my agentic AI, agentic AI is nothing, just
+LLM with, LLM with hands and legs, this thing, this is the complete crust of the glass, we
+are going to build it one by one, but we will see how these things are done, so this complete
+thing is known as agentic AI, this is the complete context of this class, means whatever
+things you will be learning in this class, we will be implementing these things only,
+we will be giving some hands, some legs to my LLM, by which it will be able to perform
+some any actions based on the thought which, what he has think, is it clear, okay, now
+for giving you some context, let us go to that playground, okay, is my screen visible
+completely, okay, now there is no system problem, there is no nothing, okay, now again, can
+you tell me weather of Delhi, suppose Delhi, so can you see what it is saying, I cannot
+provide you the real time data of any particular city, can you see this, now how this can be
+solved, now how this problem can be solved, my LLM is not having the context of real time
+things, now I want to solve this problem, how this problem can be solved, shh, okay,
+give access of any search engine to that LLM, yes, we can use a third party, we will come
+into it, but will my open AI server can call third party API server, no, then you can write
+a script, just we will come to it, can my open AI server call anything, any script that
+I have written on my local machine, can my open AI server call it, it does not have the
+access of that thing, now how can this problem be solved, my LLM, whatever thing I am using
+as a chatting application does not have the context of real time weather, it does not
+have the context of what are real time APIs, how can this be solved, so think like brute
+force solution, can I train my model daily for giving him the access of what is the weather,
+what I am going to do, I am going to train my model, my LLM daily, two times in a day,
+morning and evening, then will it be able to give me the weather of particularity, no,
+again there will be a, yes, yes, again there will be a same problem, it will still not
+be having the real time access of anything, okay, so this thing is not feasible, by the
+way training this much large model is very tough, it is very costly, okay, now what can
+be the second solution, get the access of web search, so can, I am asking that question
+again, can my open AI server do web search, tab link, okay, so we will see how this problem
+is solved, okay, but whatever things we are doing over here, we are going to build it
+by the way, whatever you are saying, but currently I don't have any method, anything that from
+where I can do the Google search, okay, just let it, let us just fine tune it, you are
+an AI assistant, who will give the real time, you will, whenever this class ends, at the
+end of this class, just whatever things I am teaching, just implement those things,
+you will be able to do multiple things over here, okay, weather of city, so I am just
+providing some context, so this is how I provide some context using system prompt,
+okay, so this is how I provide some context using system prompt, okay, so this is how
+I provide some context using system prompt, okay, so weather, suppose I am giving the
+weather of Delhi, Delhi is 24 degree Celsius, okay, my Mumbai is 20 degree Celsius, Bengaluru
+is 30 degree Celsius, so 20 degree Celsius, now means I have just fine tuned it, okay,
+means whatever system, what I have provided some context, okay, this is the weather of
+this particular city, now again, if I will ask the same question again, can you tell
+me the weather of Delhi, so it is giving me some answer, now my first solution was that
+can I train my LLM daily, so that solution was very nice solution, I cannot do that,
+so can my second solution be like this that I have some magical API and that whenever
+a user is starting to chat something, okay, what I am going to do, I am going to call
+that particular API and that API is going to return me all the weather of all the cities
+which are present inside the world, okay, so just a second, so what I am going to do,
+whenever my user starts chatting, what I am going to do, I am going to call this API server,
+I am going to call this API server and this API server is going to return me all the weather
+of all the cities which are present on the planet earth, okay, and what I am going to
+do, I am going to ingest that particular data into my system prompt, into my system prompt
+that whatever I am having over here, will this work, will this work, then will I be
+able to get the weather of that particular city, will it be a live data, it will be a
+live data, yes, but is this solution very nice because I am limiting my LLM that now
+you can only whatever whenever user is coming to my LLM for chatting anything, so he can
+only perform one operation which is just to get the weather of particular city, okay,
+I am limiting this thing, my user cannot chat about other things, so this is also very a
+nice solution, we cannot implement this, this is not feasible, it is feasible but this is
+not a practical approach that I want to give, okay, plus there will be multiple token wastage
+because suppose my user is only asking for the weather of Delhi and I am providing the
+weather of all the cities, so there will be a token usage, I have showed you this thing
+that you are seeing, how many tokens I have sent to my LLM, what it is generating and
+on that behalf I am charged, is it clear, okay, so if there is some, I can do something
+magical in my system prompt, in my system prompt what I am able to do, if I am able
+to do something magical that I am just only fetching the amount of context which is needed,
+I am only fetching the amount of context which is needed, I am just fetching the weather
+of that particular city only which user is asking, will it work, this is a feasible solution,
+okay, how we will do it, we will look into it, okay, yes you are asking.
+Pass to LLM and get the answer, okay let us see whether this can be done or not, this
+could be a solution, okay, we are having possibilities of solution that we can do, the first solution
+was that I can train my LLM daily because it is not having the context of today's whatever
+information was delivered today, okay, so that solution was not feasible, okay, that
+was a very nice solution, second solution was that whenever user is asking me something
+about weathers, for example weather only, so what I am doing, I am making an API call
+and that API is returning me the data of all the cities which are present, okay, again
+that will not be a very practical approach because I will be wasting out my tokens, I
+do not want the weather of all the cities, I only want the weather of Delhi, okay, okay,
+now we will be coding this thing, how this can be done, first of all let me just share
+one API with you, okay, this is one free API which tells me about the what is the weather
+of particular city, I am removing the format, I am not removing the format currently, suppose
+I want the weather of Delhi, so you can see it is returning me some logic, it is making
+an API request to some other servers and it is returning me something, okay, now if I
+will remove this format let us see what it is returning, okay, so it is returning me
+everything that what is the weather, what is the noon weather, everything but I will
+be implementing that format so that I can just get the gist, okay, this is the weather
+of particular city, now I am just writing one function, function get the weather of
+city, okay, city name and I will be doing some API call, so do you guys know x years
+for making an API call, I will be using this that thing, npm install x years, okay, so
+this was my URL, I am just taking this URL, const URL and I am just going to make a get
+request, const whatever things I will be getting, x years dot get, okay, this URL and I want,
+I just want to receive the text, so I will be giving response type as text, okay, and
+whatever data I will be getting over here, I will just be returning that thing, return
+the weather of the cities and whatever data I am getting, okay, let us just for a testing
+purpose let me just run this, whether this is working or not, so get weather, so I want
+the weather of Delhi or Bengaluru that then whatever data, whatever data I will be getting,
+I will just be doing a console log, okay, just for testing purpose I am just writing
+this thing, what it is telling, import x years, is telling me undefined, okay, I can, what
+it is saying, see it is showing me the weather of Delhi, you can see this thing, okay, now
+I just want to ask something, have you practiced chain of thought prompting, okay, there was
+multiple steps which were happening, there was a start step, okay, whenever user was
+asking something, there was a starting step, after that it was doing some thinking and
+based on some thinking it was generating me some output, okay, I am just copy pasting
+that code or we will write it, section b, so we have practiced what is chain of thought
+prompting, I am just copy pasting this thing, yes you want to ask something, now the issue
+is that we are facing, my open AI server cannot call, my open AI server does not know what
+I am running in my local machine, just a second, .env slash config, okay, now what
+issue we are facing that my open AI server cannot call, this is my, this is the thing
+that I have written, this is my local environment, okay, this is my open AI server, this is my
+open AI server, so whatever request that you are doing, we have made one client of open
+AI and what we were doing, we are making a open AI, we are making one API call to my
+open AI server, so just tell me, this is my open AI server, this is my application, so
+I am making a request to my open AI server, will open AI server will be having the access
+of this particular thing, the API that I have written, the function that I have written,
+it will not be having the access of that thing, in its own virtual machine, so you are telling
+that we are writing something in system prompt and we are spinning up one virtual machine,
+he is having one solution, what he is saying that, what we can do, we can tweak something
+in system prompt and I can ask my open AI server that what you can do is, you can spin
+a virtual machine or you can spin a container, okay, and make an API call and get some data
+from there and then you can tell me, return me some response, so he is telling me something
+like that, see this is the chatting application that we are using, okay, what he is suggesting
+that I will write something in my system prompt, it will go to open AI server, then my open
+AI server will somehow spin up a machine, will spin up a machine and will call that
+particular API, get that some response from there and then this open AI server will be
+returning me something, okay, can, does open AI have the access of cloud?
+Okay, we are going to run that thing, so it does not have the access of internet, cloud
+also does not have the access of internet, whatever you are saying, he is saying that
+when you are prompting something, you are telling cloud to do something, it has its
+own virtual environment, there he installs some tools and runs some certain tasks and
+then it returns me some output, that is the thing that we are going to learn, so we will
+not be requiring this thing, we will see, open AI cannot call my server, I can call
+my server, open this chatting application call my server, this chatting application
+can call the function that I have implemented, so we are just going to write that thing only,
+so this was a system prompt that we have written, okay, this was a system prompt that
+we have written, we were having some input, we were having one step as an input, then
+we were having thing, we will not be having evaluate, for evaluation purpose I told you
+that you can implement a technique as LLM as a judge, so whatever assignment that you
+will be doing today, so it would be great if you are implementing that thing because
+all the LLMs will not be having that context, for performing some task you can evaluate
+that whatever the generation has been done by this open AI, you can evaluate that from
+cloud or from Gemini, so I am just removing this evaluate step, instead of this I will
+be having a tool step, so what we will be doing tool, we will be seeing over here and
+we will be having one observe step, again I will have to change system prompt, you will
+be having be having access of some tools that you can use, okay, so I will be giving some
+access of tools, tools, so my first tool as of now this thing, this thing that the function
+that we have written, this thing is named as tool, so multiple means most of your time
+as a developer, you will be spending either writing this tool or improving the efficiency
+of this tool or improving the system prompt, okay, I will show you multiple open source
+tools also, have you used code buff, have you used cursor, how many of you have used
+cursor, okay, how many of you have used windself, codec CLI, any CLI that you have used, okay,
+so multiple times means if they are not open source yet, but whenever you will go over
+there, if you will start working over there, this is the most amount of thing where you
+will be spending your time as a developer, you will be writing multiple functions, you
+will be improving the context of this particular system prompt, okay, we will see one by one
+how that thing is done, so currently I have one function name, one tool name, get weather
+so what does get weather city accepts, it accepts city name, it accepts some city name
+and the city name is a string, okay, this tool fetches live weather of the city, okay,
+now there will be some tweaks that I will be doing, okay, after every tool step wait
+for the observed step, okay, I am just removing this thing, okay, so there is one tool step,
+so these things will also be changing, I will be having one step as a tool, okay, where
+I will be calling these functions, how I am going to do that I will show you in the code,
+then there will be one more step named as observed, okay, content will be of string
+type, okay, so if I am making a tool call there will be a tool name also, which tool
+I want to call, so tool name, so it will be also of string type, then if I want to pass
+some arguments in that particular tool, this was a function and tools are just simple functions,
+so if I am calling a function there might be some arguments that I need to pass over
+there, so tool, this will be of type string, okay, so I will just have to change this system
+just a second, so suppose user is asking what is the weather of Delhi, okay, then my assistant,
+my assistant will be having first step as a start, so step start, then it will be having
+some content, user wants me to get the current weather of Delhi, okay, this will be my first
+step that I will be doing, then there will be multiple thinking steps before executing
+before generating some output, it will be following some multiple thinking step, then
+my other step will be think, so what I am going to write over here is let me check,
+let me check if I have any tool for fetching live weather or cities, okay, after that this
+will be my thinking step, then what my assistant is doing, before executing any task what it is
+doing, it is checking whether this particular tool is available for me or not, okay, then there
+will be one more thinking step, great I found one tool named, so what was the name of my tool,
+get weather of the city, which fetches the live weather data of city, okay, then what I will do,
+I will make a tool call, my assistant will make a tool call, so there will be one tool call,
+so my step will be tool and what will be the tool name, this thing, this function, it will be
+calling this function and there will be a tool argument and that will be Delhi, okay, now my open
+AI cannot make any API call, my open AI cannot call any function, which is what I have made into
+my local machine, okay, so what I am going to do, my open AI server cannot do it, but I can do it,
+so there will be one step of developer, I told you that in this particular the chat M1 format that
+we were using, so there was one role, so in this role we have four type of thing, multiple things
+are there, but as of now system is there, system prompt, then there is a role of user, okay,
+whatever questions we are asking as a user, then there is a role of assistant, whatever my LLM is
+replying to me, then there is a role of developer, if I want to perform any task into my application,
+then generally I use the role of developer, okay, then there will be a developer who will be doing a
+tool call, so after doing a tool call, so this will be a observe step, so after doing a tool call
+it will return me some content, so suppose my content is the weather of, this was my container,
+okay, then there will be a, then I got what will be the weather of this particular city,
+then what I am going to do, I am just going to return it, great I got the weather of Delhi,
+which is 33 Celsius, then there will be a last step of output, so you have practiced chain of
+thought, so this was the very simple step by step mechanism that we were designing, okay,
+this will be output, so content will be weather of Delhi is this,
+please carry umbrella with you, okay, is it clear, now we will be seeing how can we make
+up this function, if I want to call a function, my open AI server cannot call a function,
+but I can call my function, okay, whatever functions I have written into my local machine,
+as a developer, as a coder, I can call all those functions, okay, so again we will not be changing
+anything over here, so we were having multiple steps, we were having this, this all thing is
+clear now, this is my message array on where I will be appending whatever things I am getting,
+okay, this will be my LLM call, this is whatever things I will be getting back from my LLM,
+then I will be just be pushing that particular thing into that particular LLM, then there are
+something that I am doing over here, so I am just removing this thing, okay, so this thing is there,
+I am not having an evaluate step, again you can have it in your system prompt, you can do the
+evaluation of whatever my LLM is thinking, whether this, the thought that my LLM got,
+whether it is correct or not, for that you can have one more additional step named as evaluate
+or you can name it at anything, you will make an API call to any other LLM and it will do the
+evaluation, whether the steps are right or not, okay, but here I am having one step named as tool,
+instead of evaluate I am having one step named as tool, so tool calling, okay, now what I am
+going to do, this is one of my tool, if I want to fetch a weather, okay, then I have made an
+function which what it is doing, it is making an API request to particular one server and it is
+responding me something back, okay, so what I am going to have over here is, I am going to have a
+list of tools, so when you are chatting with cloud, so what it does is, it searches whether this tool
+is available or not and if that tool is available, it generally performs a task over on that tool,
+is it clear, okay, so what I am going to have here is key tool, I am going to have one tool map,
+so in tool, in this tool map I am having one function named as get weather city and here I am
+writing this thing, okay, so there can be two possibilities that whatever my LLMS thing is of
+now, either that tool will be available or that will not be available, okay, if that tool is not
+available, then what I am going to do, if that tool list, tool map that I was having, if it does
+not have ask content dot tool name, so whenever this tool call will be happening, so there will
+be a tool name, okay, if this is not present, what I am going to do, I am just going to write one
+thing, message dot push, okay, role as developer, okay, content as json dot stringify, okay, what
+was the step over here, one of my step was observed, where I was doing a tool calling,
+observed and there was some content, so I will just be writing this tool is not available, okay,
+and if this tool is available, what I am going to do, I am just going to call this tool cause data,
+whatever data I will be getting from here, await tool map that I am having and in this tool map,
+what I am going to do, so this past content will be returning me something, past content
+dot tool name and it will also be giving me the of which city I do I need to face the weather,
+okay, so I will be writing here as pass content dot tool arms, is it clear, see I have already
+done over here, if whenever I am doing a tool call, there might be a possibility that I will be
+passing some arguments over there, so that is why in this my json format, whatever I have written
+over here, I am having one entity as tool arguments, okay, whatever arguments my LLM is passing,
+so that will be passing inside this function, is it clear, so whatever response I got, what I am
+just going to do, okay, as a developer, this was the observed step and I am just returning a data,
+whatever I got, okay, let us see whether this will work or not, again my open, this thing is
+named as tool calling, this step that we are doing, this thing is named as tool calling, so when we
+will be studying MCP, okay, when we will be making our own MCP in our future classes, so we will see
+how this can be done, we have written a lot of code over here, but till that class, we will just
+be writing two or three lines of code, okay, so let us just test it out, so what should I write in
+my system from, what is the weather of, of Bengal, let us see whether this is working or not, okay,
+okay, if it will break, we will see, see first step what happened, can you see this thing,
+can you see this thing, now was my problem solved, that whatever live data, my LLM was not having
+the context of live data, but now what I can do, I can build as many tools as much I want, now again
+the question is, sorry, again the question is, if there is something happening, okay, then can I not
+call it new server, okay, there will be some APIs which will be available from the news websites
+also, so can I not call my new server and the same thing will be happening over here, okay, now there
+is, I am writing one more tool, let us see, if I want to know the GitHub details of particular
+user, then how I am going to do that, yes, okay,
+okay, is my code visible to everyone, okay, then till now what I have did is, I have created
+one function, what is the main purpose of this function, just to get the live weather of that
+particular city, okay, then what I did was, we have studied chain of thought, chain of thought
+prompting, okay, COT we have studied in our previous class, so in that chain of thought prompting,
+what we were doing, we were having multiple steps, okay, we have written multiple steps,
+if I want to perform any task, if user is asking me something, what I am going to do, first, first
+I am going to start a particular process, then I am going to think before giving some output, this
+is what happens whenever you are enabling the thinking step on your LLM, okay, whenever you
+are going to chat GPT and you are just talking and thinking, so my LLM does a lot of thinking,
+then only it generates some output, okay, then what is happening, my problem was, I cannot call
+any server, my open air does not have the access of internet, okay, my open air does not have the
+access of servers, so it cannot perform any action, it can think, it can tell you how to do that,
+but it cannot perform any action by itself, okay, then what I did was, I created one function,
+I am having one map named as tool map, then whatever list of tools I am having, I am just going to map it over there,
+after that thing, I was having some certain steps that I was performing, okay, this is completely
+chain of thought, that there will be one start step, then there will be some thinking step,
+then there will be some thinking step, okay, then what I am going to do over here is, I am going to
+make a tool call, so my assistant is going to, whatever information he is having, based on that,
+he is going to make a tool call, if that tool call, again, my assistant cannot do, cannot call any function,
+so what I am going to do as a developer, I myself am going to call that particular function,
+which is presented to my local server, okay, is it clear, okay, we are hard-coding for right now,
+we are calling that function, okay, whenever there was a tool call, so what I did was, I was having that function,
+I was having that particular function, which is fetching me the live data of that particular thing,
+okay, so what I am doing, I am making a tool call over here, again, my LLM cannot call any tool now,
+I have to do it by myself only, into my local server, I have to perform that particular action,
+so I have performed this action, okay, whatever response I got from this action, what I am doing,
+as a developer, as a developer, I am just pushing that particular thing into my message area that I was having,
+is it clear, is it clear, so this particular, this all thing that we have written, this is named as tool,
+okay, tool calling, now you know, and this all thing, that whatever things we are, we are providing some hands,
+we are, this functions are only hands and legs, if we are, again, my LLM cannot perform any task,
+but as a developer, I can perform those tasks, suppose, okay, suppose this is my DB,
+suppose this is my DB, okay, this is my LLM, can my LLM perform credit operations on my DB,
+can my LLM create any entity in my DB, no, no, but as a developer, I can do it now,
+so same thing can happen here also, what I will do, I will give some query to my LLM,
+so my LLM will do a thinking step that the brain, the brain that we were having, that was for the thinking step,
+my thinking step will happen one by one and based on that thing, I can call those tools, is it clear, okay,
+now let us just see, I'm writing one more tool, then I will give you assignment,
+suppose I want the, sorry, suppose what I want is, I want the GitHub details of that particular user,
+okay, how we are going to write it, we will just see it over here, okay, so this is one public API for GitHub,
+this is one public API for GitHub, let me just show you, can anyone tell me your GitHub user name,
+GitHub user name, what is your GitHub name?
+So this is one public API of Tanishq, sorry, this is one public API of GitHub, so whatever things
+he has in it is GitHub, that I can, okay, so whatever things he is having, I can see,
+on his GitHub profile, whatever things he is having, I can see all those things over here,
+okay, okay, before writing code, just see this code, just let me know if there is any issue,
+what code I have written till now, is there any issue till now, was anything difficult,
+whatever things we have studied in prompt, prompt class, we are just implementing all those things
+over here only, we have studied what our chain of thought counting, but still just look at this
+code and just let me know if there is an issue, just give me a minute,
+I am just mimicking how my LLM will be doing, so what my LLM will be doing,
+it will be searching whether this kind of tool is present or not and if that tool is present,
+my LLM will be calling that tool, is it clear?
+You can do it, no issues, I am not telling you that you should write this thing only,
+you can give your own prompt, it could be much better than mine,
+okay, so there is one more tool that I am making currently, so async function,
+get github details about user,
+okay, so what I will be writing over here is user name,
+okay, so what I am going to do, I am just going to make an
+xco's request dot get and I am just going to call this url, okay, I do not want this
+much information, so I will be selecting couple of things only, there will be login,
+okay, logging and there will be more things, suppose name, then there will be blog,
+okay, then there will be public repos, okay, I will just be getting these things only,
+so I am just returning this thing, now you can, now you understood,
+sorry, now you understood how you can make a tool call, okay, now I will just be returning
+login, name, blog, public repos, so what I am going to do, first thing that I am going to do
+after writing a tool, I am just going to register into that particular thing into my tool map,
+so what is the name of this tool, this thing, then what I am going to do,
+I am going to provide the context of this particular tool to my LLM, to my system prompt
+that I was having, so this is the system prompt, so what is the thing that I am passing over here,
+okay, so what this tool is giving, this tool
+gives a public info about, the public github info about user, okay, now let us just change
+the system prompt, okay, before executing that thing, now I am just for the testing purpose,
+it might work, it might not work, let us just see, it depends on model,
+okay, so just for the testing purpose what I am doing, I am just writing one thing,
+what is the weather of Delhi, Bengaluru, and tell me one more city, Mumbai,
+and what I am writing also give me, give me the average of the cities,
+again let us just try it out, whether this will work or not, so node index.js,
+so see my first step will be, I am starting that whatever things, whatever problem that I am giving
+to my LLM, what it is doing, it is breaking down those problem into small steps, now you can see,
+I asked my tool, wait failed, what happened, let me try this one more time,
+it might fail sometime, just let us see,
+okay, I have done some typo, that is why it is failing,
+okay,
+see what I did was, I asked the weather of two cities, so now what it is doing, there was some
+typo in Bengaluru, that is why my API was not able to handle it, so it was giving me the wrong
+information, so there was the, what I was doing, I just wanted the information of what will be the
+weather of these two cities, my LLM cannot do the live fetching, my LLM does not have the context
+of live data, so what I am doing, my LLM is thinking, now I want the weather of this city,
+then I am going to make a tool call for it, then I want the weather of the second city,
+then I am going to make a tool call for it, so it is doing like that, okay,
+we are doing, yes,
+you can see,
+31, there might be some issue with API, okay, is it clear, is it clear, now just, I am just
+changing my system prompt, give me the github details about, what was your username again,
+41, 41,
+let us see,
+it returns some empty response, so there will be some issue that we will be doing this
+particular step, we forgot to write await,
+let us see,
+it is making a tool call that we are doing, so same thing happens in cloud also,
+okay,
+where is that function,
+let me just debug it up, console.log response that I am getting,
+what was your username again,
+dot then data that I will be having,
+okay,
+just a second,
+okay, this all things have been passed in sector data,
+okay,
+so what I will be having over here is,
+okay,
+name also, data dot,
+okay,
+data dot blog,
+data dot public,
+let us try it out, whether this is working or not, if there will be some crash, we will figure it out,
+okay,
+so this is a multi-step process that we are doing, so I am telling my LLM, just think multiple times,
+public data, so you can see it is returning me something, it is having some public repositories
+and multiple more things are present over here, so this I am doing a tool call for my github thing,
+okay, now do you know how to execute a command in Node.js,
+if I am writing some command, we have some Linux command, mkdir for making a directory,
+okay, ls, do you know how to write this thing in Node.js, how to execute a command in Node.js,
+okay, you have not tried it,
+no worries, okay, there is one thing in Node.js named as child process, import something from
+child process, okay, you can go on the Node.js documentation, you can see it over here,
+so there is one command, there is one function named as exec, what it does is, it executes some
+function, okay, it executes some command that I am passing in Node.js, okay, so I am going to write
+one more tool named as async function execute command, so what I am going to pass over here is
+command and that will be of string type, now whenever you are running this function,
+what you have to do is you have to create a promise, so what I will be doing over here is
+return new promise, so there are two states in promise, the first one is resolve and then reject,
+so resolve and reject, then what I am going to do, I am going to execute
+this command that I am getting and you can again read the documentation, so there will,
+there might be an error which it will be throwing or there will be a data,
+so if I am getting any error, if I am getting any error,
+what I will be doing, I will be just be returning that error, okay, and else I will be resolving
+the promise with the command, okay, so this is one tool that I have made,
+so what this function does is key whatever command is there, so it executes that particular command
+in Node.js, okay, so this is the tool that I have made as of now, now what I am going to do,
+I am just going to register this thing, sorry, execute command, so my first step will be
+registration process that I am doing, so my, someone was saying something,
+so my first step is registration, that I am registering this particular tool inside my
+tool map, then what I am going to do, I am going to provide the context into my system prompt,
+then there is one tool named as execute command, so what does this function does is,
+what does this tool does is, it takes some command as a string, okay, this tool executes
+unix slash unix command inside the machine of user, okay, I provided one context, okay,
+now what I am going to do, I am just going to write a simple system prompt,
+let us just test it out, create a to-do folder, create a folder named to-do app
+and create a simple to-do application using HTML, CSS and JavaScript inside that folder,
+okay, let us see whether this will work or not, so this is the prompt that you type in
+your cursor or Windsor that you are using, let us see whether this thing will work or not,
+so this is my folder structure, node index.js,
+so again what my user is asking what I need to do, so see it created one folder, the execute
+command created one folder, okay, now it created index.html file also, it is writing something
+inside my index.html file, I am not doing anything, my LLM is doing all these things,
+then I am having JavaScript file, okay, this logic has been written over here also,
+then there is CSS file, it has done some styling also, this is what your cursor does, okay, now
+okay, all my tool calling has been done, all this commands has been executed, now let us test it out,
+okay, this is my HTML file, let me just see whether this is working or not,
+okay, this is my to do list, let us try it out whether this functionality is working or not,
+whether my LLM has created a to do application or not, so he, how are you,
+see I can perform the creation step, I can perform a deletion step, so now you can see,
+now you can think the same thing is this cursor, cursor CLI,
+cursor CLI, codec CLI, so all these terminals are doing the same thing,
+but what is the difference, what is the difference, see I have written one generic function over here,
+I have written one generic function, what it does is it just executes command, so what you can do is
+you can create a very mono, sorry microservices kind of thing that you can create one function
+which only means this cursor, what that cursor has done, it has created multiple functions,
+so there is just one function which creates the directory only, there is one function which
+just write codes, there is one function which just execute some files, is it clear, this is how your
+cursor works, this is how your windswap works, is it clear, is this tool calling clear, sorry,
+tool calling step clear to you, okay, now there will be one assignment for you, what you have to
+do is you have to create a simple cursor, create a simple cursor, sorry, you have to create a simple
+cursor CLI for yourself, okay, what you have to submit to me is you have to submit the video
+that if I am writing something, okay, let me just explain what will be your assignment,
+okay, see this will be your CLI, okay, what I am going to do over here is I am going to paste,
+I am going to paste a URL of any website, I can paste URL of any website over here,
+what your agentic tool has to do is it has to first scrap all that particular website,
+it has to build a header section, a hero section, a footer section step by step,
+whatever we have studied till now the chain of heart prompting, the first step will be to build
+a header section, second step will be to build a footer section, third step will be to build a
+whatever context that website is having, is it clear, okay, can you build it, is it difficult,
+it is very difficult,
+can I download, see if I will go in this inspect section,
+if I will go in this inspect section, there are these elements,
+sources, okay, so there will be some HTML file, some CSS file, some JavaScript file over there,
+can you download that file, you can download it, so what you have to do is I am just explaining
+what you have to do in the assignment that if I am pasting, for now you just have to send me the
+video that your tool is executing one by one, all the things that are mentioned in the assignment,
+all those things are executing one by one, suppose scalar website only, if I am visiting
+my scalar website, what it is going to do, first it is going to download the header section,
+then it is going to write that header section into one particular file, that depends on your
+system prompt, how well you have written the system prompt, then it is going to download the
+hero section, that whatever content was present over there, based on that thing, it is going to
+write something over there, then it is going to download a footer section, then based on footer
+section, it is going to write that code, again, the website, there is a possibility that there
+will be a multiple difference between the website, what your LLM has to do is your LLM just have to
+take the context, what will be the context of this particular website and based on that context only,
+what you are going to do, you are going to build this tool, is it clear,
+now the possibilities are endless, you as many tools you can use, you can build as many tools
+as you want, now coming back to the first question that I asked you,
+perplexity, does perplexity has its own LLM, no, yes or no, yes or no,
+so
+perplexity is an agent AI platform, so what they have done is, they have written the micro
+micro task for each step that they are having, so whenever you will go on to the perplexity and
+you will type, give me the weather of the particular city, so it is able to generate
+the live weather information, what it is doing internally, it is just making a tool call,
+it is having one get weather, get fetch, sorry, fetch weather of this particular city,
+it is just making a tool call, it is again, as he told, what it has, what perplexity has done is,
+it has taken the open source model and has just fine tuned them and based on whatever class,
+whatever thing we have learned in this class, perplexity is also doing the same thing, is it
+clear, yes,
+again, please repeat your question,
+so it generally, it increases, but currently, what we will be solving for, it will be not for
+speed, it will be for accuracy, again, when we will be building our own rack in our next class,
+then we will be seeing whatever things we will be doing, it will be not based on speed,
+speed you can optimize, you can cache thing, you can know, okay, these are the tools that I want
+to call, so what I am going to do, I am going to cache this thing into some kind of memory
+of LLM, so with that step, what you can do is, you can increase the speed of tool execution task,
+you know that these tools are generally, these are the reoccurring tools, for example, whenever
+you are moving a cursor, this cursor, this thing that you are moving, so what happens,
+this particular step, this functional code of moving the cursor is stored inside your memory,
+so that memory, there is one RAM, there is one ROM, and there is one more memory, cached memory,
+or what you can call it, I am not able to get what was the name of that particular memory,
+so whatever micro operations that you are doing, for example, moving your cursor, so all those
+things are being stored inside a cache, so my GPU does not have to make a call to my RAM,
+and then it needs to execute all those things, so this is how we can optimize those things also,
+okay, but there will be some, if we are building a lot of tools, there will be a problem of
+hallucination, my LLM can hallucinate, okay, these are the things that, these are the list of tools
+that are available for my use case, but which tool do I need to call, for that thing only,
+you can have one evaluate step, again, the speed will be increasing, sorry, the speed will be
+decreasing, but the accuracy will be increasing, whatever user is asking me, so the accuracy on
+that thing will be increasing, is it clear?
+yeah,
+I think,
+Have you used VARP? So this is an AI terminal, by the way, that you are going to build. So
+if there is, there is one step that I want to ask it, delete this folder. Okay. So what
+it is giving me? Generally, my LLM is not telling me there is an equal. Okay. So see,
+you can see it is not executing that task. So what was happening whenever this tools
+were introduced, whenever people were writing this code. So my LLM was making that tool
+call and my directory was getting deleted. So you might have seen this issues that my
+LLM deleted my folder, my LLM deleted my operating system. These were the very common tweets
+that you were facing last year. So for that thing only, my LLM does not delete anything
+that it wants. What I can have is I can have one safety layer that whatever tool he needs
+to execute, whether this tool lies in the safe range or not. Okay. And if he's executing
+that tool, what I can do, I can have an evaluate step and on the evaluation step, I can make
+an LLM call to any other open AI service, sorry, any other LLM, for example, Gemini
+and just write a system, simple system problem, whether this tool is safe or not for executing
+into my operating system. So that is the, that will be the good use case for using that
+particular step. Anyone else? Assignment is clear. Any issues? Okay. Okay. Now can you
+build your own simple cursor? Not very large scale cursor. Can you build your own simple
+CLI cursor, CLI codec CLI and where I'm typing some commands and it is executing those commands.
+Now the possibilities are endless. Suppose you are working as a software engineer and
+you are working on a project of robots. Okay. So there will be some list of tools that robots
+can execute. Robot can move your left and right hand. So what you can do is there will
+be some programmer to move your left and you have this program to move your right
+and you have this program. Now what you can do is you can write all these tools and as
+a brain, you can have any LLM, any good LLM who knows that what is needed to be performed
+step by step. Is it clear? So there are multiple use cases for it. Again, we have written too
+much code over here. In our future classes, we will just be writing two, three lines of
+code and we will be done. Okay. Is it clear? Is this indicated here? Any issues? Sorry.
+Is this how? Yes. Okay. So this was a slightly internals, but there is a abstract level,
+that we will be learning in how to make agent SDKs. Whenever we will be learning what are
+agent SDKs, then I will be showing that there are plug and play options. Okay. Is it clear?
+So what we have learned till this class is LLMs does not perform any action. So for performing
+any action, what we have to do, we have to do a tool call. So we have just, we just need
+to provide a list of tools which are available and based on that thing only my LLM can take
+a decision. Is it clear? Assignment is clear. Just let me open your assignment. See, this
+is your assignment. I am sharing this thing. So your deadline will be tomorrow EOD. Okay.
+Okay. I will be sharing a Google form where you can submit. What do you need to do is
+simple thing. You just need to create a particular CLI. It is having some micro task operations.
+Okay. Again, whatever website your LLM will be making, that should be inspired by the
+website that I'm providing. Currently, you can use the URL of scalar.com. Okay. Just
+create a two, three minutes video. I will just be seeing how all those things are being
+executed and just send me the GitHub link. So based on the GitHub, whatever things that
+you have written, the code quality that you have written, my agent will evaluate it. Is
+it clear? Okay. Thank you. Uh, just one thing. Can you please take the attendance?
